@@ -1,0 +1,513 @@
+[
+  {
+    "id": "yatirimlarda-devlet-yardimlari-hakkinda-karar",
+    "baslik": "Yatırımlarda Devlet Yardımları Hakkında Karar",
+    "maddeler": [
+      {
+        "madde_no": 1,
+        "baslik": "Amaç",
+        "paragraflar": [
+          "(1) Bu Kararın amacı; kalkınma planlarında öngörülen hedefler doğrultusunda, üretim ve istihdamın artırılmasına, ülkemizin kritik ihtiyaçlarını karşılayacak, arz güvenliğini sağlayacak, dışa bağımlılığını azaltacak ve uluslararası rekabet gücünü artıracak katma değeri yüksek yatırımların özendirilmesine, işletmelerin yeşil ve dijital dönüşümlerinin hızlandırılmasına, uluslararası doğrudan yatırımların artırılmasına ve bölgesel gelişmişlik farklılıklarının azaltılmasına yönelik yatırımların desteklenmesine ilişkin usul ve esasları belirlemektir."
+        ]
+      },
+      {
+        "madde_no": 2,
+        "baslik": "Tanımlar",
+        "paragraflar": [
+          "(1) Bu Kararın uygulanmasında;",
+          "a) Aracı kurum: Faiz veya kâr payı desteğini uygulayacak kamu bankaları dâhil olmak üzere bankaları ve finansal kiralama şirketlerini,",
+          "b) Ar-Ge yatırımı: 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunda tanımlanan “Ar-Ge faaliyeti”ni gerçekleştirmek üzere yapılan sabit kıymet harcamalarını,",
+          "c) Bakan: Sanayi ve Teknoloji Bakanını,",
+          "ç) Bakanlık: Sanayi ve Teknoloji Bakanlığını,",
+          "d) Elektronik Teşvik Uygulama ve Yabancı Sermaye Bilgi Sistemi (E-TUYS): Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğü tarafından yönetilen web tabanlı uygulamayı,",
+          "e) Genel Müdürlük: Sanayi ve Teknoloji Bakanlığı Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğünü,",
+          "f) Gümrük vergisi muafiyeti: Yürürlükteki İthalat Rejimi Kararı gereğince uygulanması gereken gümrük vergisi oranının %0 olarak uygulanmasını,",
+          "g) Kalkınma ve yatırım bankası: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu hükümleri çerçevesinde Türkiye’de faaliyet gösteren kalkınma ve yatırım bankalarını,",
+          "ğ) Makine ve teçhizat: Amortismana tabi iktisadi kıymet niteliği taşıyan ve doğrudan mal ve hizmet üretiminde kullanılan sabit kıymetleri,",
+          "h) Muhasebe birimi: Sanayi ve Teknoloji Bakanlığı muhasebe birimini,",
+          "ı) Orta-yüksek teknolojili ürün: Avrupa İstatistik Ofisi (Eurostat) imalat sektörünün teknoloji yoğunluk sınıflandırmasına göre “orta yüksek teknoloji” sınıfında yer alan ve ek-1’de listelenen ürünleri (NACE Rev.2.1 kodları: 20,25.3,27,28,29, 30 (30.1 ve 30.3 hariç), 32.5),",
+          "i) Öncelikli ürün listesi: Bakanlık tarafından dış ticaret verileri, talep gelişimi, rekabet yoğunluğu gibi çeşitli kriterler dikkate alınarak belirlenecek, orta-yüksek ve yüksek teknolojili sektörlerdeki ürünlerin ve bu sektörlerin gelişimi için kritik ürünlerin yer aldığı, Bakanlık tebliği ile yayımlanacak olan listeyi,",
+          "j) Sabit kıymet: Teşvik belgesi kapsamında temin edilen duran varlıkları,",
+          "k) Sabit yatırım tutarı: Arazi-arsa, bina-inşaat, makine ve teçhizat ile diğer yatırım harcaması kalemlerinin toplamını,",
+          "l) Stratejik Hamle Programı Değerlendirme Komitesi: Çalışma usul ve esasları Bakanlık tarafından belirlenecek olan, Stratejik Hamle Programı kapsamındaki başvuruları değerlendirerek destek kararını verecek komiteyi,",
+          "m) Stratejik hamle yatırım konuları listesi: Bakanlık tarafından kalkınma planları ve strateji belgeleri çerçevesinde belirlenen ve Bakanlık tebliği ile yayımlanacak olan listeyi,",
+          "n) Teknoloji Hamlesi Programı Değerlendirme Komitesi: Çalışma usul ve esasları Bakanlık tarafından belirlenecek olan, Teknoloji Hamlesi Programı kapsamındaki başvuruları değerlendirerek destek kararını verecek komiteyi,",
+          "o) Teşvik belgesi: Yatırım teşvik belgesini,",
+          "ö) Ürün: Teşvik belgesine konu yatırımla elde edilmesi amaçlanan asıl işlem görmüş imalat sanayii ürün veya ürünlerini,",
+          "p) Yatırım ilerleme raporu: Türkiye Yüzyılı Kalkınma Hamlesi kapsamında desteklenen yatırımlar için, yatırımcının teşvik belgesine konu yatırım ile ilgili harcamalarını ve yatırım düzeyini gösteren yeminli mali müşavir raporunu,",
+          "r) Yatırımcı: Teşvik belgesi kapsamı yatırımı gerçekleştirecek gerçek veya tüzel kişileri,",
+          "s) Yeniden değerleme oranı: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (B) fıkrası uyarınca tespit ve ilan edilen oranı,",
+          "ş) Yerel Kalkınma Hamlesi Programı Değerlendirme Komitesi: Çalışma usul ve esasları Bakanlık tarafından belirlenecek olan, Yerel Kalkınma Hamlesi Programı kapsamındaki başvuruları değerlendirerek destek kararını verecek komiteyi,",
+          "t) Yerel yatırım konuları listesi: Bakanlık tarafından yerel dinamikler ve potansiyeller çerçevesinde her il özelinde belirlenecek dört yatırım konusunun yer aldığı, Bakanlık tebliği ile yayımlanacak olan listeyi,",
+          "u) Yüksek teknolojili ürün: Avrupa İstatistik Ofisi (Eurostat) imalat sektörünün teknoloji yoğunluk sınıflandırmasına göre “yüksek teknoloji” sınıfında yer alan ve ek-1’de listelenen ürünleri (NACE Rev.2.1 kodları: 21,26, 30.3),",
+          "ifade eder."
+        ]
+      },
+      {
+        "madde_no": 3,
+        "baslik": "Bölgeler",
+        "paragraflar": [
+          "(1) Bu Karar kapsamında yer alan desteklerin uygulanması açısından iller, sosyo-ekonomik gelişmişlik seviyeleri dikkate alınarak EK-2’de belirtilen altı bölgeye ayrılmıştır."
+        ]
+      },
+      {
+        "madde_no": 4,
+        "baslik": "Teşvik sistemi ve destek unsurları",
+        "paragraflar": [
+          "(1) Teşvik sistemi; Türkiye Yüzyılı Kalkınma Hamlesi ve Sektörel Teşvik Sistemi uygulamaları ile bölgesel teşviklerden oluşur.",
+          "(2) Türkiye Yüzyılı Kalkınma Hamlesi: Teknoloji Hamlesi Programı, Yerel Kalkınma Hamlesi Programı ve Stratejik Hamle Programı olmak üzere üç programdan oluşur ve bu uygulamalar kapsamında desteklenen yatırımlar bölgesel teşvikler ile aşağıdaki destek unsurlarından yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti.",
+          "b) Katma Değer Vergisi (KDV) istisnası.",
+          "c) Vergi indirimi.",
+          "ç) Faiz veya kâr payı desteği.",
+          "d) Makine desteği.",
+          "e) Yatırım yeri tahsisi.",
+          "(3) Sektörel Teşvik Sistemi: Öncelikli Yatırımlar Teşvik Sistemi ve Hedef Yatırımlar Teşvik Sistemi olmak üzere iki teşvik sisteminden oluşur ve bu uygulamalar kapsamında desteklenen yatırımlar bölgesel teşvikler ile aşağıdaki destek unsurlarından yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti.",
+          "b) KDV istisnası.",
+          "c) Vergi indirimi.",
+          "ç) Faiz veya kâr payı desteği.",
+          "d) Yatırım yeri tahsisi.",
+          "(4) Bölgesel Teşvikler: Türkiye Yüzyılı Kalkınma Hamlesi ve Sektörel Teşvik Sistemi kapsamında desteklenen yatırımlar, yatırım bölgesine göre aşağıdaki destek unsurlarından yararlandırılır.",
+          "a) Sigorta primi işveren hissesi desteği.",
+          "b) Sigorta primi desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için)."
+        ]
+      },
+      {
+        "madde_no": 5,
+        "baslik": "Yatırımlarda aranacak şartlar",
+        "paragraflar": [
+          "(1) Desteklerden yararlanacak yatırımların ek-3’te belirtilen yatırım konularına yönelik olması ve bu konular için belirtilen şartları sağlaması gerekir. Türkiye Yüzyılı Kalkınma Hamlesi, Dijital Dönüşüm Programı, Yeşil Dönüşüm Programı ve 9 uncu maddenin birinci fıkrasının (v) bendi kapsamında desteklenen yatırımlar için bu şart aranmaz.",
+          "(2) Asgari sabit yatırım tutarının ayrıca belirtilmemiş olduğu hallerde yatırımların destek unsurlarından yararlanabilmesi için asgari sabit yatırım tutarının; 1 inci ve 2 nci bölgelerde 12 milyon TL, diğer bölgelerde ise 6 milyon TL olması gerekir.",
+          "(3) Finansal kiralama yöntemiyle yapılacak yatırımlarda finansal kiralamaya konu makine ve teçhizata ait toplam tutarın her bir finansal kiralama şirketi için asgari 3 milyon TL olması gerekir.",
+          "(4) Yatırımların bu Karar kapsamındaki destek unsurlarından yararlanabilmesi için, makroekonomik programlar ve arz-talep dengesi dikkate alınarak yapılacak sektörel, malî ve teknik değerlendirmeler çerçevesinde projenin uygun görülmesi ve teşvik belgesi düzenlenmesi gerekir.",
+          "(5) Bu Karar kapsamında 31/12/2030 tarihine kadar yapılacak olan teşvik belgesi müracaatları değerlendirilir.",
+          "(6) Teşvik belgesi düzenlenmesine ilişkin müracaat tarihinden önce gerçekleştirilmiş bulunan yatırım harcamaları teşvik belgesi kapsamına alınmaz.",
+          "(7) Sabit yatırım tutarı; faiz veya kâr payı desteği ve makine desteği ödemeleri düşülmeden hesaplanır. Ancak, vergi indirimi desteğinin uygulanmasına esas sabit yatırım tutarı, bu Karar kapsamında sağlanan faiz veya kâr payı desteği ve makine desteği ödemeleri düşülerek hesaplanır.",
+          "(8) Teşvik belgesi kapsamında yatırım harcaması olarak kabul edilen maddi olmayan duran varlıkların (marka, lisans, know-how vb.) oranı, teşvik belgesinde kayıtlı toplam sabit yatırım tutarının %25’ini aşamaz. Dijital Dönüşüm Programı kapsamında desteklenen yatırımlar için bu hüküm uygulanmaz.",
+          "(9) 24/5/2023 tarihli ve 7297 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Küçük ve Orta Büyüklükteki İşletmeler Yönetmeliğine göre küçük ve orta büyüklükte işletme (KOBİ) sınıfında yer almayan yatırımcı veya Yerel Kalkınma Hamlesi Programı kapsamında desteklenen yatırımcı, yatırımın sürdürülebilirliğini desteklemek, teknolojik ve sektörel gelişime, toplumsal fayda amaçlı eğitim ve Ar-Ge faaliyetlerine veya yerel kalkınmaya katkı sağlamak üzere, Bakanlık tarafından belirlenen usul ve esaslara göre hazırlanmış ve Bakanlık tarafından onaylanmış bir ekosistem geliştirme planını gerçekleştirmekle yükümlüdür. Bu kapsamda yatırım tamamlama vizesi tarihine kadar gerçekleştirilecek yatırım ve harcamaların tutarı sabit yatırım tutarının %2’sinden az olamaz. Vergi indirimi desteği öngörülmeyen yatırımlar için bu hüküm uygulanmaz.",
+          "(10) Bu Karar ve eklerinde yer alan Türk Lirası cinsindeki tutarlar her yıl, bir önceki yıla ilişkin yeniden değerleme oranı dikkate alınarak tebliğ ile belirlenecek usul ve esaslar çerçevesinde takvim yılı başından geçerli olmak üzere güncellenir.",
+          "(11) Teşvik belgesi kapsamında yurt içinden temin edilen mal ve hizmet bedelleri için Hazine ve Maliye Bakanlığınca teşvik belgesi kapsamında düzenlenecek elektronik belge için belirlenecek usul ve esaslar çerçevesinde elektronik fatura veya elektronik arşiv fatura düzenlenmesi zorunludur.",
+          "(12) Teşvik belgesi, E-TUYS üzerinden elektronik belge olarak düzenlenir ve uygulamalar ile ilgili işlemler elektronik ortamda gerçekleştirilir. Destekleri uygulayan kurum ve kuruluşlar gümrük beyannamesi, elektronik fatura ya da elektronik arşiv fatura gibi belgeleri elektronik ortamda Bakanlığa iletmek ile yükümlüdür.",
+          "(13) Teşvik belgesi kapsamında sağlanan destek miktarı, destekleri uygulayan kurum ve kuruluşlarca destekten yararlanılan tarihi takip eden ikinci ayın sonuna kadar destek unsuru ve teşvik belgesi bazında Bakanlığa iletilir.",
+          "(14) Teşvik belgesi kapsamında sağlanan KDV istisnası, gümrük vergisi muafiyeti, vergi indirimi, faiz veya kâr payı desteği ve makine desteğinin faydalanma yılı esas alınarak yeniden değerleme oranı ile hesaplanan toplam değeri, yeniden değerleme oranı dikkate alınarak hesaplanmış gerçekleşen sabit yatırım tutarını geçemez."
+        ]
+      },
+      {
+        "madde_no": 6,
+        "baslik": "Teknoloji Hamlesi Programı",
+        "paragraflar": [
+          "(1) Teknoloji Hamlesi Programı kapsamında öncelikli ürün listesindeki ürünlere ya da teknolojilere yönelik yatırımlar desteklenebilir.",
+          "(2) Teknoloji Hamlesi Programı kapsamında desteklenecek yatırımlar Teknoloji Hamlesi Programı Değerlendirme Komitesi tarafından proje bazında değerlendirilir ve uygun görülen projeler için teşvik belgesi düzenlenir.",
+          "(3) Bu program, Bakanlık tarafından belirlenecek uygulama usul ve esasları kapsamında Stratejik Araştırmalar ve Verimlilik Genel Müdürlüğünce yürütülür.",
+          "(4) Öncelikli ürün listesi Bakanlık tarafından her yıl ocak ayı içerisinde güncellenebilir."
+        ]
+      },
+      {
+        "madde_no": 7,
+        "baslik": "Yerel Kalkınma Hamlesi Programı",
+        "paragraflar": [
+          "(1) Yerel Kalkınma Hamlesi Programı kapsamında bölgelerarası gelişmişlik farklarının azaltılması ve bölgelerin rekabet güçlerinin artırılması hedeflenmektedir.",
+          "(2) Program kapsamında desteklenecek yatırım konuları; illerin sosyo-ekonomik gelişmişlik durumu ve coğrafi potansiyelleri, âtıl kaynakların değerlendirilmesi, yerel ihtiyaçların karşılanması, bölgede üretimi olmayan ancak başarı olasılığı yüksek sektörlerin geliştirilmesi, ileri-geri bağlantılı sektörlerin desteklenmesi, istihdam potansiyeli ve kümelenme etkisi gibi kriterler çerçevesinde belirlenir.",
+          "(3) Desteklenecek yatırımlar Yerel Kalkınma Hamlesi Programı Değerlendirme Komitesi tarafından proje bazında değerlendirilir ve uygun görülen projeler için teşvik belgesi düzenlenir.",
+          "(4) Bu program, Bakanlık tarafından belirlenecek uygulama usul ve esasları kapsamında Kalkınma Ajansları Genel Müdürlüğünce yürütülür.",
+          "(5) Yerel yatırım konularının, 5 yıllık kalkınma planı, orta vadeli program, Cumhurbaşkanı yıllık programı ile uyumu ve bütçeye etkisi yönünden Strateji ve Bütçe Başkanlığının görüşü alınarak yerel yatırım konuları listesi Bakanlık tarafından tebliğ ile belirlenir ve her yıl ocak ayı içerisinde güncellenebilir."
+        ]
+      },
+      {
+        "madde_no": 8,
+        "baslik": "Stratejik Hamle Programı",
+        "paragraflar": [
+          "(1) Stratejik Hamle Programı kapsamında katma değeri yüksek, ülkemizin kritik ihtiyaçlarını karşılayacak, arz güvenliğini sağlayacak, dışa bağımlılığını azaltacak, uluslararası rekabet gücünü artıracak ve araştırma-geliştirme içeriği yüksek imalat sektörü yatırımları ile Dijital Dönüşüm Programı ve Yeşil Dönüşüm Programı kapsamındaki yatırımlar desteklenebilir.",
+          "(2) Stratejik Hamle Programı kapsamında desteklenecek yatırımlarda aranacak asgari sabit yatırım tutarı yüksek teknolojili ürünlerin üretimine yönelik yatırımlar için 100 milyon TL, diğer yatırımlar için ise 200 milyon TL’dir.",
+          "(3) Genel Müdürlük, Stratejik Hamle Programı kapsamında sunulan desteklerden faydalanmak isteyen yatırımcıların müracaatlarını aşağıda belirtilen kriterler çerçevesinde ön değerlendirmeye tabi tutar.",
+          "a) Yatırım konusunun stratejik hamle yatırım konuları listesinde yer alması,",
+          "b) Üretilmesi planlanan ana ürünün/ürünlerin son bir yıl içerisindeki ihracatın ithalatı karşılama oranının azami %70 olması,",
+          "c) Tebliğ ile belirlenen katma değer hesabı yöntemine göre hesaplanacak katma değer oranının asgari %30 olması,",
+          "ç) Yatırım tutarının %20’si kadar öz kaynağın bulunması,",
+          "d) Yatırım konusu ürünle ilgili olarak son bir yıl içerisinde gerçekleşen toplam ithalat tutarının 50 milyon ABD Doları ve üzerinde olması.",
+          "(4) Genel Müdürlük, ön değerlendirme neticesinde üçüncü fıkrada belirtilen beş kriterden üçünü sağladığı tespit edilen projeleri fizibilite raporu hazırlanmasını teminen, Bakanlık ile protokol imzalayan bir kalkınma ve yatırım bankasına iletir.",
+          "(5) Kalkınma ve yatırım bankası Bakanlıkça iletilen proje için teknik, ekonomik ve mali analizi içeren bir fizibilite raporu hazırlayarak Bakanlığa iletir.",
+          "(6) Stratejik Hamle Programı kapsamında desteklenecek yatırımlar Stratejik Hamle Programı Değerlendirme Komitesi tarafından proje bazında değerlendirilir ve uygun görülen projeler için teşvik belgesi düzenlenir. Stratejik Hamle Programı Değerlendirme Komitesi Bakanlığa iletilen fizibilite raporu ile teknik değerlendirme sonuçlarına göre karar alır.",
+          "(7) Genel Müdürlük tarafından yapılacak değerlendirme ile Stratejik Hamle Programı Değerlendirme Komitesi tarafından yapılacak değerlendirmeye ilişkin kriterler ve usul ve esaslar tebliğ ile belirlenir.",
+          "(8) Asgari 50 milyon TL tutarındaki yeşil dönüşüm programı ve dijital dönüşüm programı kapsamında desteklenecek yatırımlar, bu maddede belirtilen değerlendirme süreci olmaksızın Stratejik Hamle Programı kapsamında desteklenebilir.",
+          "(9) Stratejik hamle yatırım konuları listesi Bakanlık tarafından her yıl ocak ayı içerisinde güncellenebilir."
+        ]
+      },
+      {
+        "madde_no": 9,
+        "baslik": "Öncelikli Yatırımlar Teşvik Sistemi",
+        "paragraflar": [
+          "(1) Öncelikli Yatırımlar Teşvik Sistemi kapsamında aşağıda belirtilen yatırım konuları desteklenir.",
+          "a) Dijital Dönüşüm Programı veya Yeşil Dönüşüm Programı kapsamında desteklenmesine karar verilen yatırımlar.",
+          "b) Teknoloji Hamlesi Programı kapsamında yayımlanan öncelikli ürün listesinde belirtilen yüksek teknolojili ürünlerin üretimine yönelik yatırımlar ile asgari 500 milyon TL tutarındaki yüksek teknolojili ürünlerin üretimine yönelik yatırımlar.",
+          "c) İstanbul ilinde gerçekleştirilecek olan yatırımlar hariç olmak üzere; Teknoloji Hamlesi Programı kapsamında yayımlanan öncelikli ürün listesinde belirtilen orta yüksek teknolojili ürünlerin üretimine yönelik yatırımlar ile asgari 1 milyar TL tutarındaki orta yüksek teknolojili ürünlerin üretimine yönelik yatırımlar.",
+          "ç) Müteharrik karakterli yatırımlar hariç olmak üzere; 6 ncı bölgede yapılan yatırımlar, geçici 3 üncü ve geçici 4 üncü maddeler kapsamında değerlendirilen yatırımlar.",
+          "d) Savunma Sanayii Başkanlığından alınacak proje onayına istinaden gerçekleştirilecek savunma alanındaki yatırımlar.",
+          "e) İmalat sanayii işletmelerinin öz tüketimine yönelik olarak gerçekleştirilecek enerji üretimi faaliyeti kapsamında bağlantı anlaşmasındaki sözleşme gücü ile sınırlı olmak kaydıyla, güneş enerjisine dayalı elektrik üretim tesisi yatırımları ile rüzgâr enerjisine dayalı elektrik üretim tesisi yatırımları.",
+          "f) Enerji ve Tabii Kaynaklar Bakanlığı tarafından düzenlenen geçerli bir maden işletme ruhsatı ve izni kapsamında 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 2 nci maddesinin 4- b grubunda yer alan madenlerin girdi olarak kullanıldığı elektrik üretimi yatırımları.",
+          "g) Nükleer enerji santrali yatırımları.",
+          "ğ) Asgari 500 milyon TL tutarındaki, sıvılaştırılmış doğal gaz (LNG) yatırımları ve yer altı doğal gaz depolama yatırımları.",
+          "h) Maden istihraç yatırımları ve/veya maden işleme yatırımları.",
+          "ı) 3213 sayılı Kanuna istinaden düzenlenmiş geçerli arama ruhsatı veya sertifikasına sahip yatırımcıların ruhsatlı sahalarında yapacağı maden arama yatırımları.",
+          "i) Ar-Ge yatırımları.",
+          "j) Ar-Ge merkezi veya tasarım merkezlerinde yürütülen Ar-Ge veya tasarım projeleri ile ilişkili İstanbul ili dışındaki yatırımlar.",
+          "k) Teknolojik Ürün Deneyim Belgesi düzenlenmiş ürünlerin üretimine yönelik yatırımlar.",
+          "l) Orta yüksek teknolojili ve yüksek teknolojili ürünlere yönelik test merkezi yatırımları ile ihracatçı birliklerinin dış ticareti desteklemek amacıyla yapacakları test merkezi yatırımları.",
+          "m) Asgari yatırım tutarı şartı aranmaksızın ihtisas serbest bölgelerinde gerçekleştirilecek yazılım ve bilişim ürünleri üretimi yatırımları.",
+          "n) Tebliğ ile belirlenecek teknik şart ve standartları karşılayan ve asgari 3 megavat kurulu güç şartını sağlayan veri merkezi yatırımları.",
+          "o) Tebliğ ile belirlenecek teknik şart ve standartlara göre hizmet veren veri merkezlerinde bulut hizmeti sağlayıcıları tarafından yapılacak asgari 200 milyon TL tutarındaki yatırımlar.",
+          "ö) Çevre İzin ve Lisans Yönetmeliği kapsamında çevre lisansına tabi yatırımlar.",
+          "p) Demiryolu, denizyolu veya havayolu ile taşımacılık yatırımları.",
+          "r) Yük taşımacılığına yönelik liman yatırımları (yat limanı ve marina hariç).",
+          "s) Kültür ve turizm koruma ve gelişim bölgelerinde, turizm merkezlerinde, Kültür ve Turizm Bakanlığının bağlı/ilgili alan başkanlıkları sınırları içerisinde veya termal turizm konusundaki turizm konaklama yatırımları.",
+          "ş) Özel sektör tarafından gerçekleştirilecek olan, kreş ve gündüz bakım evleri, okul öncesi eğitim, ilkokul, ortaokul ve lise eğitim yatırımları ile hava araçlarının kullanım, tamir ve bakımına yönelik eğitim yatırımları.",
+          "t) Asgari 100 kişi ve üzeri kapasiteli yaşlı ve/veya engelli bakım merkezleri.",
+          "u) Lisanslı depoculuk yatırımları.",
+          "ü) 25 dekar ve üzeri yurtiçinde üretilen sera teknolojilerini ihtiva eden otomasyona dayalı (bilgisayar kontrollü iklimlendirme, sulama, gübreleme ve ilaçlama sistemi ihtiva eden) topraksız sera yatırımları.",
+          "v) Sanayi sicil belgesine sahip mevcut tesislerde yapılacak deprem veya yangın riskine karşı yapılan yatırımlar.",
+          "y) Sanayi Genel Müdürlüğünden alınacak uygunluk yazısına istinaden gerçekleştirilecek afet teknolojileri alanındaki yatırımlar.",
+          "(2) Birinci fıkranın (e) bendi kapsamında yapılan yatırımlara faiz veya kâr payı desteği sağlanmaz.",
+          "(3) Birinci fıkranın (ç) bendi kapsamında desteklenen; elektrik enerjisi dağıtım yatırımları, elektrik enerjisi depolama yatırımları, ana şebeke üzerinden gaz yakıtların dağıtımı konusundaki yatırımlar ile birinci fıkranın (e), (f) ve (g) bentleri kapsamı dışında kalan elektrik üretimi yatırımlarına vergi indirimi ve faiz veya kâr payı desteği sağlanmaz."
+        ]
+      },
+      {
+        "madde_no": 10,
+        "baslik": "Hedef Yatırımlar Teşvik Sistemi",
+        "paragraflar": [
+          "(1) Hedef Yatırımlar Teşvik Sistemi kapsamında ek-3’te yer alan yatırım konuları belirtilen şartları sağlamaları halinde desteklenir.",
+          "(2) Hedef Yatırımlar Teşvik Sistemi kapsamında desteklenen; elektrik üretimi yatırımları, elektrik enerjisi dağıtım yatırımları, elektrik enerjisi depolama yatırımları ve ana şebeke üzerinden gaz yakıtların dağıtımı konusundaki yatırımlar ile İstanbul ilinde gerçekleştirilecek yatırımlar vergi indirimi desteğinden yararlanamaz.",
+          "(3) Hedef Yatırımlar Teşvik Sistemi kapsamında sadece 4 üncü, 5 inci ve 6 ncı bölgelerde gerçekleştirilecek yatırımlara faiz veya kâr payı desteği sağlanır. Elektrik üretimi yatırımları, elektrik enerjisi dağıtım yatırımları, elektrik enerjisi depolama yatırımları ile ana şebeke üzerinden gaz yakıtların dağıtımı konusundaki yatırımlara faiz veya kâr payı desteği sağlanmaz."
+        ]
+      },
+      {
+        "madde_no": 11,
+        "baslik": "Dijital Dönüşüm Programı",
+        "paragraflar": [
+          "(1) Teknolojik ürün ve çözümlerin işletme süreçlerine entegre edilerek maliyet azaltımı, verimlilik ve kalite artışı, çalışan ve müşteri memnuniyeti gibi sonuçlar elde etmeyi amaçlayan yatırımlar Dijital Dönüşüm Programı kapsamında değerlendirilir.",
+          "(2) Bu program, Bakanlık tarafından belirlenecek uygulama usul ve esasları kapsamında Milli Teknoloji Genel Müdürlüğünce yürütülür."
+        ]
+      },
+      {
+        "madde_no": 12,
+        "baslik": "Yeşil Dönüşüm Programı",
+        "paragraflar": [
+          "(1) Döngüsel ekonomi yaklaşımıyla uyumlu, doğal kaynakları koruyan, iklim ve sürdürülebilirlik hedeflerine katkı sağlayan, kaynak verimli ve düşük karbonlu üretimi amaçlayan yatırımlar Yeşil Dönüşüm Programı kapsamında değerlendirilir.",
+          "(2) Bu Program, Bakanlık tarafından belirlenecek uygulama usul ve esasları kapsamında Stratejik Araştırmalar ve Verimlilik Genel Müdürlüğünce yürütülür."
+        ]
+      },
+      {
+        "madde_no": 13,
+        "baslik": "Gümrük vergisi muafiyeti",
+        "paragraflar": [
+          "(1) Teşvik belgesi kapsamındaki yatırım malı makine ve teçhizat için gümrük vergisi muafiyeti uygulanır.",
+          "(2) EK-4’te yer alan makine ve teçhizat gümrük vergisi muafiyeti sağlanmaksızın ithal edilerek sabit yatırım tutarına dahil edilebilir.",
+          "(3) Finansal kiralama yöntemiyle gerçekleştirilecek yatırımlar için finansal kiralama şirketi adına ayrı bir teşvik belgesi düzenlenmeksizin yatırımcının teşvik belgesi dikkate alınarak ithalat işlemleri yapılır. İthalat işlemleri ile ilgili olarak yatırımcı ile finansal kiralama şirketleri müteselsilen sorumludur.",
+          "(4) Teşvik belgesi almak üzere müracaat edilmiş, ancak teşvik belgesine bağlanmamış yatırımlara ilişkin makine ve teçhizatın ithaline, Bakanlığın görüşüne istinaden Ticaret Bakanlığınca teşvik belgesi kapsamında muafiyet tanınabilecek ve istisna edilebilecek vergi ve kesintilerin toplam tutarı kadar teminatın alınması suretiyle müsaade edilebilir. Teminatla ithalatta, bir defada verilebilecek teminat süresi altı ay olup, sürenin başlangıç tarihi, eşyanın serbest dolaşıma giriş tarihidir. Bu süre içerisinde teşvik belgesinin düzenlenememiş olması halinde süre bitimini müteakip üç ay içerisinde süre uzatımı için doğrudan Ticaret Bakanlığına müracaat edilir. Verilecek ek sürenin başlangıcı bir önceki sürenin sona erdiği tarihtir. Teminatın çözümü için Ticaret Bakanlığına müracaat edilmesi gerekir. Aksi takdirde teminat irat kaydedilir.",
+          "(5) 19/4/2020 tarihli ve 31104 sayılı Resmî Gazete’de yayımlanan Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858) kapsamında M1 kategorisi ve N1 kategorisi niteliği taşıyan araçların üretimine yönelik olarak; asgari yüz bin adet/yıl kapasiteli yeni bir yatırım yapılması veya mevcut tesislerin kurulu kapasitelerinin en az yüz bin adet/yıl artırılması halinde, teşvik belgesinde kayıtlı sabit yatırım tutarının yüzde yirmisinin gerçekleştirilmesini müteakip, yatırım süresi içerisinde olmak, belgede kayıtlı toplam ilave araç kapasitesinin % 15’ini aşmamak ve ithalat esnasında yararlanılacak vergi indirimi tutarı kadar teminat mektubunun Bakanlığa ibraz edilmesi kaydıyla gümrük vergisi muafiyeti sağlanmak suretiyle yatırımcılara, içten yanmalı motor silindir hacmi azami 1600 cm3 ve/veya elektrik motoru azami 160 kwh güce sahip olan ve bu fıkrada belirtilen kategorilerde araç ithali için izin verilebilir. Belge kapsamında hibrit araç için motor üretiminin de yer alması halinde, motor üretim kapasitesinin % 15’i kadar daha (motor üretim kapasitesinin, araç üretim kapasitesinden fazla olması durumunda araç kapasitesi dikkate alınır) bu fıkrada belirtilen şartlarda araç ithaline izin verilebilir."
+        ]
+      },
+      {
+        "madde_no": 14,
+        "baslik": "KDV istisnası",
+        "paragraflar": [
+          "(1) 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu gereğince, teşvik belgesini haiz yatırımcılara teşvik belgesi kapsamında yapılacak makine ve teçhizat ithal ve yerli teslimleri ile belge kapsamındaki yazılım ve gayri maddi hak satış ve kiralamaları KDV’den istisna edilebilir. Aynı hüküm, teşvik belgesi kapsamı yatırımın devir işlemleri ile makine ve teçhizat listelerinde set, ünite, takım ve benzeri olarak belirtilen malların kısmi teslimlerinde de uygulanır."
+        ]
+      },
+      {
+        "madde_no": 15,
+        "baslik": "Faiz veya kâr payı desteği",
+        "paragraflar": [
+          "(1) Talep edilmesi halinde, bu Karar kapsamında desteklenen yatırımlar için bankalardan Türk Lirası cinsinden kullanılacak en az bir yıl vadeli yatırım kredilerinin teşvik belgesinde kayıtlı sabit yatırım tutarının %70’ine kadar olan kısmı için ödenen faiz veya kâr payının, kullanım tarihinde geçerli olan Türkiye Cumhuriyet Merkez Bankası (TCMB)’nın bir hafta vadeli repo ihale faiz oranının;",
+          "a) Teknoloji Hamlesi Programı ve Yerel Kalkınma Hamlesi Programı için 20 puanı geçmemek üzere %40’ına tekabül eden puanı,",
+          "b) Stratejik Hamle Programı için 15 puanı geçmemek üzere %30’una tekabül eden puanı,",
+          "c) Öncelikli yatırımlar için 12,5 puanı geçmemek üzere %25’ine tekabül eden puanı,",
+          "ç) 4 üncü, 5 inci ve 6 ncı bölgelerde gerçekleştirilecek hedef yatırımlar için 12,5 puanı geçmemek üzere %25’ine tekabül eden puanı,",
+          "Bakanlıkça da uygun görülmesi halinde ilk kredinin kullanım tarihinden itibaren azami beş yıl için ödenmek kaydıyla bütçe kaynaklarından karşılanabilir. Kredi kullanım tarihindeki bir hafta vadeli repo ihale faiz oranları dikkate alınarak destek ödemesi yapılır. Ancak, vade tarihlerindeki TCMB’nin bir hafta vadeli repo ihale faiz oranlarının, kredinin kullanım tarihinde geçerli olan bir hafta vadeli repo ihale faiz oranının altına düşmesi halinde, vade tarihlerindeki bir hafta vadeli repo ihale faiz oranları dikkate alınarak destek ödemesi yapılır.",
+          "(2) Faiz veya kâr payı desteği içeren teşvik belgelerine konu yatırımlardan finansal kiralama yöntemiyle gerçekleştirilecek olanlar için de faiz veya kâr payı ödemelerini içeren itfa planı yapılması kaydıyla aynı şartlarla faiz veya kâr payı desteği öngörülebilir.",
+          "(3) Faiz veya kâr payı desteği tutarı,",
+          "a) Teknoloji Hamlesi Programı ve Yerel Kalkınma Hamlesi Programı kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının %20’sini aşmamak kaydıyla 240 milyon TL’yi,",
+          "b) Stratejik Hamle Programı kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının % 15’ini aşmamak kaydıyla 180 milyon TL’yi,",
+          "c) Öncelikli Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının %10’unu aşmamak kaydıyla 24 milyon TL’yi,",
+          "ç) Hedef Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının %10’unu aşmamak kaydıyla 12 milyon TL’yi,",
+          "geçemez.",
+          "(4) Döviz kredisi ile gerçekleştirilecek yatırımlarda kullanılan döviz kredisinin Türk Lirası karşılığı, kredi kullanım tarihindeki TCMB döviz satış kuru dikkate alınarak tespit edilir. Döviz kredisinin faiz veya kâr payı oranının %50’si aşılmamak kaydı ile ödenecek faiz veya kâr payının, birinci fıkranın (a) ve (b) bentlerinde belirtilen yatırımlar için 2 puanı, (c) ve (ç) bentlerinde belirtilen yatırımlar için 1 puanı dikkate alınarak yapılacak faiz veya kâr payı desteği uygulaması, vade tarihindeki TCMB döviz satış kuru dikkate alınarak gerçekleştirilir.",
+          "(5) Kullanılan kredilerin faiz, kâr payı veya anaparalarının yatırımcı tarafından itfa planlarında belirtilen sürelerde geri ödenmemesi halinde, yapılmayan ilk ödeme ilgili aracı kurum tarafından en kısa sürede Bakanlığa bildirilir ve Bakanlıkça ilgili döneme ait faiz veya kâr payı desteği ödemeleri durdurulur. Bir sonraki vade için yatırımcının kredi geri ödeme yükümlülüklerini yerine getirdiğinin ilgili aracı kurumca Bakanlığa bildirilmesi halinde, yükümlülüğün yerine getirildiği bu dönemden itibaren faiz veya kâr payı desteği ödemeleri başlangıçta öngörülen ödeme tarihlerinde herhangi bir uzatmaya gidilmeksizin tekrar başlatılır. Kredi geri ödemesine ait yükümlülüklerin yeniden aksaması halinde faiz veya kâr payı desteği ödemesine son verilir.",
+          "(6) Teşvik belgesi kapsamındaki yatırımın bütün halinde başka bir yatırımcıya 25 inci madde çerçevesinde belge üzerinde unvan değişikliği yapılmak suretiyle devrine izin verilmesi ve aracı kurumun da kredinin bakiye kısmının yeni yatırımcıya devrini uygun görmesi halinde, devralan yatırımcı için faiz veya kâr payı desteği açısından bakiye haklar dikkate alınarak düzenlenecek yeni itfa planına göre faiz veya kâr payı desteği ödenmesine devam edilir. Aksi takdirde faiz veya kâr payı desteği uygulaması durdurulur.",
+          "(7) Aracı kurum, faiz veya kâr payı desteğine esas olan kredinin teşvik belgesi kapsamındaki harcamalar için kullandırılmasıyla yükümlüdür. Kredinin amacı dışında kullandırıldığının tespiti halinde, Bakanlıkça ödenen faiz veya kâr payı desteği tutarına ilgili bankanın bu kapsamdaki krediye uyguladığı faiz veya kâr payı oranı uygulanmak suretiyle Bankaca tespit edilecek meblağın, finansal kiralama şirketlerince ise ödenen faiz veya kâr payı desteği miktarına itfa planının düzenlenmesinde uygulanan faiz veya kâr payı oranı üzerinden tespit edilen tutarın beş iş günü içerisinde bütçeye gelir yazılmak üzere muhasebe birimi hesabına yatırılması gerekir. Aksi takdirde söz konusu meblağlar Bakanlıkça;",
+          "a) Bankalar için TCMB nezdindeki karşılık hesabından virman yapılarak veya diğer hukuki yöntemler kullanılarak,",
+          "b) Finansal kiralama şirketleri için ise 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanarak,",
+          "geri alınır.",
+          "(8) Teşvik belgelerinin iptal edilmesi veya kısmi müeyyide uygulanması halinde yatırımcılara fazladan ödenen faiz veya kâr payı desteği tutarına, her bir destek ödemesinin yapıldığı tarihten itibaren 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları uygulanarak yatırımcıdan geri alınır. Bu hüküm, bu Karar ve daha önceki kararlara istinaden düzenlenen teşvik belgelerine de uygulanır.",
+          "(9) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında faiz veya kâr payı desteğinden faydalanan yatırımlara makine desteği sağlanmaz.",
+          "(10) Ek-4’te yer alan makine ve teçhizat için faiz veya kâr payı desteği ile makine desteğinden faydalanma kapsamı ve koşulları tebliğ ile belirlenir."
+        ]
+      },
+      {
+        "madde_no": 16,
+        "baslik": "Makine desteği",
+        "paragraflar": [
+          "(1) Talep edilmesi halinde, Türkiye Yüzyılı Kalkınma Hamlesi kapsamında desteklenen yatırımlar için düzenlenen teşvik belgesinin yatırım süresi içinde temin edilen ve diğer masraflar hariç sadece makine ve teçhizatın birim fiyatı 2 milyon Türk Lirası ve üzerinde olan makine ve teçhizat bedelinin %25’i yatırımcıya bütçe kaynaklarından ödenir.",
+          "(2) Makine desteği tutarı,",
+          "a) Teknoloji Hamlesi Programı ve Yerel Kalkınma Hamlesi Programı kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının % 15’ini aşmamak kaydıyla 240 milyon TL’yi,",
+          "b) Stratejik Hamle Programı kapsamında desteklenmesine karar verilen yatırımlarda sabit yatırım tutarının %15’ini aşmamak kaydıyla 180 milyon TL’yi,",
+          "geçemez.",
+          "(3) Makine desteğinden faydalandırılan yatırımlara faiz veya kâr payı desteği sağlanmaz."
+        ]
+      },
+      {
+        "madde_no": 17,
+        "baslik": "Türkiye Yüzyılı Kalkınma Hamlesi kapsamında yapılacak ödemeler",
+        "paragraflar": [
+          "(1) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında yapılacak faiz veya kâr payı desteği ve makine desteği ödemeleri, yatırım harcamasının yapıldığı yılı takip eden yıl Bakanlığa ibraz edilecek yatırım ilerleme raporunda belirtilen yatırım tutarı esas alınarak hesaplanan destek hak ediş tutarı kadar yapılır. Sadece arazi-arsa harcamaları veya diğer harcama kalemlerinden oluşan yatırım ilerleme raporlarına istinaden ödeme yapılmaz.",
+          "(2) Destek hak ediş tutarı, belge kapsamı yatırım ile ilgili kabul edilen sabit yatırım tutarı harcamalarının, faiz veya kâr payı desteği veya makine desteğinin her bir program için belirlenen azami oranı kadarını ifade eder ve belirlenen üst limitlerin üzerinde olamaz.",
+          "(3) Destek hak ediş tutarının faydalanılmayan kısmı, her yıl, bir önceki yıla ilişkin yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılır.",
+          "(4) Destek hak ediş tutarı her yıl için kümülatif olarak hesaplanır ve ödeme tutarının destek hak ediş tutarının üzerinde gerçekleşmesi halinde fazladan faydalanılan tutar beşinci fıkra hükmü çerçevesinde geri alınır.",
+          "(5) Teşvik belgelerinin iptal edilmesi veya kısmi müeyyide uygulanması halinde yatırımcılara fazladan ödenen faiz veya kâr payı desteği ve makine desteği tutarına, her bir destek ödemesinin yapıldığı tarihten itibaren 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları uygulanarak yatırımcıdan geri alınır."
+        ]
+      },
+      {
+        "madde_no": 18,
+        "baslik": "Sigorta primi işveren hissesi desteği",
+        "paragraflar": [
+          "(1) Bu Karar kapsamında desteklenen yatırımlardan, tamamlama vizesi yapılmış teşvik belgesinde kayıtlı istihdamı aşmamak kaydıyla;",
+          "a) Komple yeni yatırımlarda, teşvik belgesi kapsamında gerçekleşen yatırımla sağlanan,",
+          "b) Diğer yatırım cinslerinde, yatırımın tamamlanmasını müteakip, yatırıma başlama tarihinden önceki son altı aylık dönemde (mevsimsel özellik taşıyan yatırımlarda bir önceki yıla ait mevsimsel istihdam ortalamaları dikkate alınır) Sosyal Güvenlik Kurumuna verilen, alt işverenler tarafından istihdam edilen işçi sayısı da dâhil, aylık prim ve hizmet belgesinde bildirilen ortalama işçi sayısına teşvik belgesi kapsamında gerçekleşen yatırımla ilave edilen istihdam için ödenmesi gereken sigorta primi işveren hissesinin asgari ücrete tekabül eden kısmının 6 ncı bölgede gerçekleştirilen yatırımlar için tamamı, diğer bölgelerde gerçekleştirilen yatırımlar için %50’si Bakanlık bütçesinden karşılanır.",
+          "(2) Sigorta primi işveren hissesi desteği aşağıda belirtilen sürelerde uygulanır.",
+          "Bölgeler\tUygulama Süresi\n1\t\n2\t1 yıl\n3\t2 yıl\n4\t4 yıl\n5\t8 yıl\n6\t12 yıl",
+          "(3) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında desteklenen yatırımlar için bu destek 6 ncı bölgede 12 yıl, diğer bölgelerde 8 yıl süreyle uygulanır.",
+          "(4) Sektörel teşvik sistemi kapsamında desteklenen yatırımlar için, yatırımın karakteristiği gereği muhtelif illerde gerçekleştirilecek yatırımlara sigorta primi işveren hissesi desteği ve sigorta primi desteği sağlanmaz.",
+          "(5) 1 inci bölge illerinden 4 üncü, 5 inci veya 6 ncı bölge il veya ilçelerine taşınan imalat sanayi yatırımları (NACE Rev.2.1 kodları: 10-32 arası ve 38.2) için düzenlenen sadece nakil yatırım cinsindeki teşvik belgeleri kapsamında, taşınan makine ve teçhizat ile asgari 50 istihdam sağlanması ve taşınan makine ve teçhizatın asgari bir yıl süreyle firma aktifinde kayıtlı olduğu yeminli mali müşavir raporu ile tevsik edilmesi kaydıyla bölgesel destekler sağlanır. Bu madde kapsamında değerlendirilen yatırımlar için bölgesel destekler dışında başka bir destek sağlanmaz ve bu yatırımlarda asgari yatırım tutarı şartı aranmaz.",
+          "(6) İşveren hissesine ait primlerin karşılanabilmesi için, işverenlerin çalıştırdıkları sigortalılarla ilgili olarak 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca aylık prim ve hizmet belgelerini yasal süresi içerisinde Sosyal Güvenlik Kurumuna vermesi ve sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutar ile Bakanlıkça karşılanmayan işveren hissesine ait tutarın yasal süresi içerisinde ödenmiş olması şarttır. İşveren tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Bakanlıktan Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan gecikme zammı işverenden tahsil edilir.",
+          "(7) Gemi inşa yatırımlarında tamamlama vizesi şartı aranmaksızın belge konusu geminin yapımında istihdam edilen işçiler için ödenmesi gereken sigorta primi işveren hissesinin asgari ücrete tekabül eden kısmı Bakanlıkça karşılanabilir. Bu destek, gemi inşası devam etse dahi teşvik belgesinin düzenlendiği tarihi takip eden aydan itibaren en fazla yirmi dört ay süreyle uygulanır. Yat, yüzer tesis ve deniz araçları da bu kapsamda değerlendirilir. Ancak, yatırım süresi ve sözleşmesi devam eden Savunma Sanayii Başkanlığı ile imzalanan sözleşmeye istinaden gerçekleştirilecek projelerde bu destek teşvik belgesinin düzenlendiği tarihi takip eden aydan itibaren sözleşme süresi sonuna kadar uygulanır. Bu fıkra kapsamında sigorta primi işveren hissesi desteği öngörülen yatırımlara ilave olarak sadece gümrük vergisi muafiyeti sağlanır.",
+          "(8) Sigorta primi işveren hissesi desteği veya sigorta primi desteğinin uygulanacağı teşvik belgesi kapsamındaki yatırıma ait tesiste, işverenin sosyal güvenlik işyeri numarası altında ilgili mevzuatta belirlenen alt işverenler tarafından istihdam edilen işçi sayısı da dikkate alınabilir.",
+          "(9) Aynı işyeri sicil numarasına sahip yatırımcıya ait yatırım teşvik belgeleri kapsamındaki sigorta primi işveren hissesi desteği uygulamaları belge bazında ayrı ayrı uygulanır, birleştirme yapılmaz.",
+          "(10) Sosyal Güvenlik Kurumuna yapılacak aktarımlarla ilgili usul ve esaslar Bakanlık tarafından belirlenir."
+        ]
+      },
+      {
+        "madde_no": 19,
+        "baslik": "Sigorta primi desteği",
+        "paragraflar": [
+          "(1) Bu Karar uyarınca, 6 ncı bölgede teşvik belgesi kapsamında gerçekleştirilecek yatırımla sağlanan ilave istihdam için, tamamlama vizesi yapılan teşvik belgesinde kayıtlı ilave istihdam sayısını aşmamak kaydıyla, işveren tarafından Sosyal Güvenlik Kurumuna ödenmesi gereken sigorta primi işçi hissesinin asgari ücrete tekabül eden kısmı, tamamlama vizesinin yapılmasını müteakip 10 yıl süreyle işveren adına Bakanlık bütçesinden karşılanabilir.",
+          "(2) Bu destekten yararlanılabilmesi için, aylık prim ve hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna verilmesi ve Bakanlıkça karşılanmayan işçi hissesine ait tutarın yasal süresi içerisinde ödenmiş olması şarttır. Bu destekten yararlanan yatırımcı tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Bakanlıktan Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan gecikme zammı işverenden tahsil edilir."
+        ]
+      },
+      {
+        "madde_no": 20,
+        "baslik": "Vergi indirimi",
+        "paragraflar": [
+          "(1) Bu Karar kapsamında desteklenen yatırımlarda, 5520 sayılı Kanunun 32/A maddesi çerçevesinde gelir veya kurumlar vergisi;",
+          "a) Teknoloji Hamlesi Programı ve Yerel Kalkınma Hamlesi Programı kapsamında desteklenmesine karar verilen yatırımlarda %50 yatırıma katkı oranı,",
+          "b) Stratejik Hamle Programı kapsamında desteklenmesine karar verilen yatırımlarda %40 yatırıma katkı oranı,",
+          "c) Öncelikli Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen yatırımlarda %30 yatırıma katkı oranı,",
+          "ç) Hedef Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen yatırımlarda %20 yatırıma katkı oranı,",
+          "üzerinden hesaplanan yatırıma katkı tutarına ulaşıncaya kadar %60 indirimli olarak uygulanır.",
+          "(2) Yatırımcının diğer faaliyetlerinden elde edilen kazançlarına, bu maddeye göre hesaplanacak yatırıma katkı tutarının %50’sini geçmemek üzere 5520 sayılı Kanunun 32/A maddesinde belirtilen usulde indirimli gelir veya kurumlar vergisi uygulanabilir.",
+          "(3) Arazi, arsa, royalti, yedek parça ve amortismana tâbi olmayan diğer harcamalar ile 5520 sayılı Kanun gereği finans ve sigortacılık konularında faaliyet gösteren kurumlar, iş ortaklıkları, 16/7/1997 tarihli ve 4283 sayılı Yap-İşlet Modeli ile Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile Enerji Satışının Düzenlenmesi Hakkında Kanun ve 8/6/1994 tarihli ve 3996 sayılı Bazı Yatırım ve Hizmetlerin Yap- İşlet-Devret Modeli Çerçevesinde Yaptırılması Hakkında Kanun kapsamında gerçekleştirilen yatırımlar ve rödovans sözleşmesine bağlı olarak yapılan yatırımlar vergi indirimi desteğinden yararlanamaz.",
+          "(4) Firma tescil tarihi teşvik belgesi düzenlenmesi için yapılan müracaat tarihinden en fazla bir yıl öncesinde olan yatırımcılar, talep etmeleri halinde vergi indirimi desteğinden faydalanmamak kaydıyla;",
+          "a) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında desteklenmesine karar verilen komple yeni yatırımlarda, faiz veya kâr payı desteği ya da makine desteği için belirlenmiş olan desteğin sabit yatırıma oranına 5 puan ve azami tutara 60 Milyon TL eklenmek suretiyle,",
+          "b) Öncelikli Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen komple yeni yatırımlarda, faiz veya kâr payı desteği için belirlenmiş olan desteğin sabit yatırıma oranına 2 puan ve azami tutara 6 Milyon TL eklenmek suretiyle,",
+          "c) Hedef Yatırımlar Teşvik Sistemi kapsamında desteklenmesine karar verilen komple yeni yatırımlarda, faiz veya kâr payı desteği için belirlenmiş olan desteğin sabit yatırıma oranına 2 puan ve azami tutara 2 Milyon 400 Bin TL eklenmek suretiyle,",
+          "faydalanabilir."
+        ]
+      },
+      {
+        "madde_no": 21,
+        "baslik": "Yatırım yeri tahsisi",
+        "paragraflar": [
+          "(1) Bakanlıkça teşvik belgesi düzenlenmiş yatırımlar için, 29/6/2001 tarihli ve 4706 sayılı Kanunun ek 3 üncü maddesi çerçevesinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca belirlenen usul ve esaslara göre yatırım yeri tahsis edilebilir,",
+          "(2) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında teşvik belgesi düzenlenmiş yatırımlar için Sanayi Bölgeleri Genel Müdürlüğünce belirlenen usul ve esaslara göre yatırım yeri tahsisi edilebilir.",
+          "(3) Vergi indirimi öngörülmeyen yatırımlar ile elektrik üretimine yönelik yatırımlara yatırım yeri tahsis edilmez."
+        ]
+      },
+      {
+        "madde_no": 22,
+        "baslik": "Alt bölge desteğinden yararlanacak yatırımlar",
+        "paragraflar": [
+          "(1) Bu Karar kapsamında teşvik belgesi düzenlenen yatırımlar, aşağıda belirtilen koşullardan birini sağlamaları halinde sigorta primi işveren hissesi desteği açısından bulundukları bölgenin bir alt bölgesinde sağlanan, her ikisini sağlamaları halinde bulundukları bölgenin iki alt bölgesinde sağlanan şart ve sürede bu destekten yararlanabilir.",
+          "a) Yatırımın organize sanayi bölgesinde veya endüstri bölgesinde gerçekleştirilmesi.",
+          "b) Yatırımın ek-5’te belirtilen ilçelerde gerçekleştirilmesi.",
+          "(2) 6 ncı bölgede gerçekleştirilecek yatırımlar için birinci fıkra kapsamında sigorta primi işveren hissesi desteği, bölgede geçerli olan süreye iki yıl ilave edilmek suretiyle uygulanır."
+        ]
+      },
+      {
+        "madde_no": 23,
+        "baslik": "Kullanılmış komple tesis ve kullanılmış makine ve teçhizat ithali",
+        "paragraflar": [
+          "(1) Bakanlıkça görevlendirilecek en az iki personelin komple tesisin bulunduğu ülkede yapacakları ekspertiz neticesinde, yerli üretim imkanları, teknolojik kazanım, ihracat katkısı kriterlerine göre Bakanlık tarafından uygun görülmesi halinde, kullanılmış komple tesisin teşvik belgesi kapsamında ithaline izin verilebilir. Ekspertiz işleminin ulaşım giderleri yatırımcı tarafından karşılanır.",
+          "(2) Teşvik belgesi kapsamında serbest bölgelerden kullanılmış komple tesis ithaline izin verilmez.",
+          "(3) Ek-4’te yer alan ve kullanılmış komple tesis kapsamında ithali uygun görülen kullanılmış veya yenileştirilmiş makine ve teçhizat KDV istisnası ve gümrük vergisi muafiyeti sağlanmaksızın ithal edilerek sabit yatırım tutarına dâhil edilebilir.",
+          "(4) Orta-yüksek ve yüksek teknolojili yatırım konuları için düzenlenmiş teşvik belgeleri kapsamında kullanılmış ithal makine ve teçhizat temin edilebilir, ancak ek-4’te belirtilen makine ve teçhizat kullanılmış veya yenileştirilmiş olarak teşvik belgesi kapsamında temin edilemez.",
+          "(5) Kullanılmış komple tesis veya kullanılmış makine ve teçhizat, vergi indirimi, makine desteği ve faiz veya kâr payı desteğinden faydalanamaz."
+        ]
+      },
+      {
+        "madde_no": 24,
+        "baslik": "Bütçeden yapılacak ödemeler",
+        "paragraflar": [
+          "(1) Yatırımların desteklenmesi için her yıl bütçe kanunu ile ayrılan ödenek çerçevesinde ilgili mevzuatında öngörülen usul ve esaslar uyarınca aşağıda belirtilen ödemeler yapılabilir.",
+          "a) Bu Karar uyarınca yapılacak ödemeler.",
+          "b) Önceki dönemlere ait ilgili Bakanlar Kurulu Kararları uyarınca ödenmesi gereken yatırım ve işletme kredilerine ait bakiye tutarlar.",
+          "c) Daha önceki Yatırımlarda Devlet Yardımları Hakkında Kararlarda belirtilen hükümler çerçevesinde ödenmesi gereken destek unsurlarına ait tutarlar.",
+          "ç) Daha önceki Yatırımlarda Devlet Yardımları Hakkında Kararlar da dâhil açılmış olan davaların aleyhte sonuçlanması nedeniyle ödenmesi gereken tutarlar ile yargılama ve cebri icra giderleri.",
+          "(2) Sosyal Güvenlik Kurumuna yapılacak ödemeler ile açılan davalar sonucu yapılacak ödemeler haricindekiler, TCMB aracılığıyla gerçekleştirilir."
+        ]
+      },
+      {
+        "madde_no": 25,
+        "baslik": "Teşvik belgesi kapsamı yatırımın devri",
+        "paragraflar": [
+          "(1) Tamamlama vizesi yapılmamış teşvik belgesine konu yatırımın; bütün halinde başka bir yatırımcıya belge üzerinde unvan değişikliği yapılmak suretiyle devredilmesi veya mevzuat düzenlemesi ya da ortaklık yapısı değişikliği nedeniyle yatırımın bağımsız üretim bölümlerine kısmi bölünmesi nedeniyle bölünen kısmın yeni bir teşvik belgesine devredilmesi Genel Müdürlüğün iznine tabidir. Bu durumda devralan yatırımcı teşvik belgesi kapsamında faydalanılmamış desteklerden faydalanmaya devam edebilir. Tamamlama vizesi yapılmış teşvik belgelerinin bütün olarak başka bir yatırımcıya devri uygun görülmez.",
+          "(2) Türkiye Yüzyılı Kalkınma Hamlesi kapsamında desteklenen yatırımlar için düzenlenen yatırım teşvik belgesinin başka bir yatırımcıya belge üzerinde unvan değişikliği yapmak suretiyle devredilmesi ya da yatırımcı şirketin Borsa İstanbul Pay Piyasasında halka arz yöntemi ile paylarını satması hariç olmak üzere proje kapsamı yatırım tamamlanmadan hisselerini devretmesi, ilgili programın değerlendirme komitesi kararı ve Genel Müdürlüğün iznine tabidir."
+        ]
+      },
+      {
+        "madde_no": 26,
+        "baslik": "Sabit kıymetlerin satışı",
+        "paragraflar": [
+          "(1) Tamamlama vizesi yapılmamış ya da tamamlama vizesi yapılmış ancak tamamlama vizesi için Bakanlığa yapılan müracaat tarihinden itibaren iki yılını doldurmamış teşvik belgesine konu yatırım için temin edilen sabit kıymetlerin satışı Bakanlığın iznine tabidir. Bakanlık, sabit kıymet satışına ilişkin talebi yatırım bütünlüğü, asgari yatırım tutarı ve Belgenin düzenlenmesine mesnet teşkil eden diğer şartlar açısından değerlendirir ve talebe konu sabit kıymete ilişkin sağlanan desteklerin geri alınması kaydıyla satışa izin verebilir.",
+          "(2) 18 inci maddenin yedinci fıkrası kapsamında desteklenen gemi inşa yatırımlarında, tamamlama vizesi yapılmış teşvik belgesi kapsamında inşa edilen geminin satışına izin verilmesi halinde teşvik belgesi kapsamında sağlanan destekler geri alınmaz.",
+          "(3) Tamamlama vizesi için Bakanlığa yapılan müracaat tarihinden itibaren iki yılını doldurmuş sabit kıymetlerin satışı tamamlama vizesi yapılmış olması şartıyla serbest olup, satışa konu sabit kıymetler ile ilgili destekler geri alınmaz veya durdurulmaz.",
+          "(4) Yatırımcı adına düzenlenmiş birden fazla teşvik belgesi olması durumunda, belge kapsamında temin edilen sabit kıymetlerin yatırımcı adına düzenlenmiş başka bir belge kapsamına devri, devre konu sabit kıymetlerin temin tarihlerinin devir olunan teşvik belgesi süresi içinde olması ve bu belgeye konu yatırım ile uyumlu olması halinde uygun görülebilir ve bu durumda sadece varsa fazladan faydalanılan destekler geri alınır."
+        ]
+      },
+      {
+        "madde_no": 27,
+        "baslik": "Sabit kıymetlerin kiralanması",
+        "paragraflar": [
+          "(1) Teşvik belgesi kapsamında temin edilen makine ve teçhizatın, üretilecek mal veya hizmetlerin teşvik belgesi sahibi yatırımcı tarafından satın alınması koşuluyla kiralanması veya diğer bir yatırımcıya herhangi bir ücret alınmaksızın geçici olarak verilmesi Bakanlığın iznine tabidir.",
+          "(2) Teşvik belgesi kapsamı yatırımın bütün olarak işletilmek üzere başka bir firmaya kiralanması Bakanlığın iznine tabidir. Ancak bu durumda istihdama yönelik destekler durdurulur.",
+          "(3) Tamamlama vizesi yapılmamış ya da tamamlama vizesi yapılmış olmakla birlikte tamamlama vizesi müracaat tarihi itibariyle iki yılını doldurmamış teşvik belgesine konu sabit kıymetlerin tamamının veya bir kısmının finansal kiralama şirketi tarafından bizzat kiracıdan satın alınarak (sat ve geri kirala) finansal kiralama işlemine konu edilebilmesi, faiz veya kâr payı desteğinden yararlanılmaması koşulu ile Bakanlığın iznine tabidir."
+        ]
+      },
+      {
+        "madde_no": 28,
+        "baslik": "Yatırım yeri değişikliği",
+        "paragraflar": [
+          "(1) Karar kapsamında desteklenen yatırımların yer değişikliği talepleri Bakanlıkça değerlendirilerek proje bazında sonuçlandırılır.",
+          "(2) Yatırımların, destek süresi boyunca bulunduğu bölgede faaliyette bulunması esastır. Ancak, nakli talep edilen yatırımın daha az desteklendiği ya da desteklenmediği bölgelere taşınması durumunda varsa taşınacağı bölgede sağlanan desteği aşan kısım ile taşındığı bölgede sağlanmayan desteklerin ilgili mevzuat çerçevesinde geri alınması kaydıyla yatırım yeri değişikliği talepleri uygun görülebilir.",
+          "(3) Tamamlama vizesi yapılmamış teşvik belgelerinde nakli talep edilen yatırımın teşvik belgesinin düzenlenmesine ilişkin müracaat tarihinde yürürlükte olan mevzuat hükümlerine göre daha fazla desteklendiği bölgelere taşınması durumunda, yatırıma taşınılan yatırım yerine sağlanan destekler sağlanır.",
+          "(4) Tamamlama vizesi yapılmış teşvik belgelerinde nakli talep edilen yatırımın teşvik belgesinin düzenlenmesine ilişkin müracaat tarihinde yürürlükte olan mevzuat hükümlerine göre daha fazla desteklendiği bölgelere taşınması durumunda naklin uygun görülmesi halinde destek unsurları revize edilmez.",
+          "(5) Bu madde hükümleri daha önceki kararlara göre düzenlenmiş teşvik belgeleri için de uygulanır."
+        ]
+      },
+      {
+        "madde_no": 29,
+        "baslik": "Yatırım süresi, teşvik belgesinin revizesi ve tamamlama vizesi",
+        "paragraflar": [
+          "(1) Yatırımın başlangıç tarihi, teşvik belgesi için Bakanlığa müracaat tarihidir.",
+          "(2) Teşvik belgesine konu yatırımın tamamlanması için gerekli süre yatırımcı tarafından Bakanlığa sunulur. Bu sürenin 3 yıldan uzun olması halinde Bakanlık yatırım süresini 3 yıla kadar düşürebilir. Teşvik belgesi kapsamındaki yatırımların öngörülen sürede gerçekleştirilmesi esastır. Yatırımın öngörülen sürede gerçekleştirilememesi hâlinde, teşvik belgesinde kayıtlı ilk sürenin yarısı kadar ek süre verilebilir.",
+          "(3) İlgili mevzuatı gereği kamu kurum ve kuruluşlarından alınması gerekli izin ve ruhsat gibi belgelerin temin edilememesi veya kamu kurum ve kuruluşlarının uygulamaları sonucu yatırımcıların faaliyetlerini durdurmaları veya yürütememeleri, yatırım süresi içerisinde gerçekleşecek mücbir sebep veya fevkalade hâl durumu nedeniyle yatırımın belgede kayıtlı süre içerisinde gerçekleştirilemediğinin yatırımcılar tarafından tevsik edilmesi hâlinde Bakanlıkça bu durum göz önünde bulundurularak ilave süre verilebilir.",
+          "(4) Teşvik belgesinde kayıtlı olan değerlerde ya da teşvik belgesi kapsamında değerlendirilecek harcamalara ilişkin yatırımın her aşamasında tevsik edilen bilgi ve belgelere istinaden yapılacak değerlendirme sonucunda Genel Müdürlük tarafından değişiklik yapılabilir.",
+          "(5) Yatırımcı, öngörülen süre veya ek süre bitimini müteakip üç ay içinde yatırımın tamamlama vizesinin yapılması için Bakanlığa müracaat eder. Müracaat edilmemesi halinde, Bakanlıkça yatırımcıya tamamlama vizesi müracaatında bulunulması için bildirimde bulunulur. Bildirim tarihini müteakip iki ay içerisinde tamamlama vizesi için müracaatta bulunulmaması halinde 32 nci madde kapsamında teşvik belgesi iptal edilir. Bu süre içerisinde müracaat edilmemesi ve daha sonra teşvik belgesinin herhangi bir nedenle iptal edilmesi veya kısmi müeyyide uygulanması durumunda geçen süreden kaynaklanan cezanın sorumluluğu yatırımcıya aittir. Bu hüküm, bu Karar ve daha önceki kararlara istinaden düzenlenen teşvik belgelerine de uygulanır.",
+          "(6) Yatırım tamamlama vizesi, yatırım yerinde Genel Müdürlük personelince gerçekleştirilecek tamamlama ekspertizi neticesinde gerçekleştirilir. Daha önceki kararlara istinaden düzenlenen teşvik belgeleri de dâhil olmak üzere; yatırımların tamamlama ekspertizi için kalkınma ajansları, Bakanlık il müdürlükleri, Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı (KOSGEB) il müdürlükleri görevlendirilebilir. Genel Müdürlükçe uygun görülen yatırımlar için, daha önceki kararlara istinaden düzenlenen teşvik belgeleri de dâhil olmak üzere tamamlama vizesi işlemleri yeminli mali müşavirlerce düzenlenecek rapora istinaden de yapılabilir.",
+          "(7) Daha önceki kararlara istinaden düzenlenen teşvik belgeleri de dahil olmak üzere, ekspertiz işlemleri için görevlendirilecek personelin her birine ödenecek ekspertiz ücreti 1.000 Türk Lirasıdır. Bu görevlendirmelerde ekspertiz ücreti, yol ve konaklama giderleri yatırımcı tarafından karşılanır. Tamamlama ekspertizi için görevlendirilen merciler tarafından yatırımcılardan, başka hiçbir ad altında ilave ücret talep edilemez.",
+          "(8) Tamamlama vizesi aşamasında yatırımın kısmen veya tamamen destek şartlarını sağlayamadığının tespit edilmesi halinde, teşvik belgesi düzenlenmesine ilişkin müracaat tarihinde geçerli olan mevzuat hükümlerine uygun olması şartıyla destekler revize edilebilir. Bu durumda varsa fazladan faydalanılan destekler 6183 sayılı Kanun hükümleri çerçevesinde yatırımcıdan geri alınır.",
+          "(9) Genel Müdürlük, teşvik belgesi kapsamında gerçekleştirilen yatırımlar ile ilgili olarak yatırım süresi içerisinde ya da sonrasında, tespitte bulunmak veya tamamlandığı tespit edilen yatırımlar ile ilgili olarak resen tamamlama vizesi işlemi yapmak üzere inceleme yapabilir ya da altıncı fıkrada belirtilen kurumları görevlendirebilir."
+        ]
+      },
+      {
+        "madde_no": 30,
+        "baslik": "Uygulama",
+        "paragraflar": [
+          "(1) Teşvik belgesinde öngörülen destek unsurlarının ilgili kurum ve kuruluşlar tarafından uygulanması zorunludur.",
+          "(2) Bakanlık, tebliğler ile belirlenen usul ve esaslar çerçevesinde bu Karar kapsamındaki uygulamaya yönelik bazı işlemleri diğer kurum ve kuruluşlar aracılığı ile yürütebilir."
+        ]
+      },
+      {
+        "madde_no": 31,
+        "baslik": "Yetki ve denetim",
+        "paragraflar": [
+          "(1) Bu Kararın uygulanmasını teminen Bakanlık;",
+          "a) Uygulamaya ilişkin usul ve esasları belirlemeye, talimat vermeye,",
+          "b) Makroekonomik politikalar ve gelişen şartları göz önünde bulundurarak gerekli tedbirleri almaya ve bu yönde düzenlemeler yapmaya,",
+          "c) İlgili kişi, kurum ve kuruluşlardan gerekli görülen her türlü ilave bilgi, belge, görüş, izin, ruhsat vb. istemeye,",
+          "ç) Bu Kararda öngörülen hâller dışında kalan özel durumları inceleyip sonuçlandırmaya, görüş vermeye, mücbir sebep ve fevkalade hal durumlarının varlığı hâlinde teşvik belgesi ile ilgili gerekli işlemleri yapmaya ve uygulamada ortaya çıkacak ihtilafları çözmeye,",
+          "d) Teşvik belgesinde öngörülen şartlara uyulup uyulmadığını denetlemeye ve denetim sonuçlarına göre gerekli tedbirleri almaya,",
+          "yetkilidir.",
+          "(2) Denetim sırasında, denetim görevlilerinin yatırımla ilgili her türlü bilgi ve belgeyi inceleme taleplerinin karşılanması, talep edilmesi halinde belgelerin onaylı örneklerinin verilmesi ve mahallinde incelemeye izin verilmesi zorunludur."
+        ]
+      },
+      {
+        "madde_no": 32,
+        "baslik": "Müeyyide",
+        "paragraflar": [
+          "(1) Bu Karar ve ilgili diğer mevzuatta belirlenen hükümlere aykırı davranan, teşvik belgesindeki kayıt ve koşulları yerine getirmeyen, teşvik belgesi ile diğer belgelerde tahrifat yapan, sahte ve muhteviyatı itibarıyla yanıltıcı belge düzenleyen veya kullanan, yanlış ve yanıltıcı bilgi veren, diğer kurum, kuruluş veya firmalara karşı yükümlülüklerin yerine getirilmemesi nedeniyle icra veya iflas yoluyla yapılan işlemler de dâhil belge kapsamındaki makine ve teçhizatı öngörülen sürelerden önce satan veya satılmasına sebebiyet veren, teşvik belgesinde öngörülen sürede yatırımları ve ekosistem geliştirme planını tamamlamayan, belirlenen asgari yatırım tutarlarına uymayan yatırımcıların teşvik belgeleri ikinci fıkra hükmü saklı kalmak kaydıyla iptal edilir.",
+          "(2) Yatırımcının mükellefiyetlerini kısmen yerine getirmediği ancak, belge iptalinin de gerekmediği durumlarda belge kapsamında sağlanan desteklerin ilgili kısmı müeyyide uygulanarak geri alınır.",
+          "(3) Teşvik belgelerinin iptal edilmesi veya kısmi müeyyide uygulanması halinde sağlanan destekler 6183 sayılı Kanun hükümleri çerçevesinde yatırımcıdan geri alınır.",
+          "(4) Yatırımcının mükellefiyetlerini yerine getirmemesi hâlinde uygulanacak olan müeyyidelerden finansal kiralamaya konu makine ve teçhizata tekabül eden bölümü, kısmen veya tamamen finansal kiralama şirketlerine de uygulanabilir."
+        ]
+      },
+      {
+        "madde_no": 33,
+        "baslik": "Diğer desteklerden yararlanma",
+        "paragraflar": [
+          "(1) Bu Karar kapsamındaki destek unsurlarından yararlanan yatırımlar, diğer kamu kurum ve kuruluşlarının desteklerinden yararlanamaz. Diğer kamu kurum ve kuruluşlarının desteklerinden yararlanılan veya yararlanılacak yatırımlar için, bu Karar kapsamındaki desteklerden yararlanmak üzere Bakanlığa müracaat edilemez. Bu madde hükmüne aykırı davranılması halinde, bu Karar kapsamında yararlanılan destekler ilgili mevzuat çerçevesinde geri alınır. Ancak, diğer kamu kurum ve kuruluşlarının sadece sübvansiyonlu kredi desteğinden veya yatırım kapsamında kullanılan krediyle ilgili başka bir desteğinden yararlanan yatırımlar, söz konusu krediye bu Karar kapsamında yer alan faiz veya kâr payı desteği veya makine desteği sağlanmaması kaydıyla, bu Karar kapsamındaki diğer destek unsurlarından yararlandırılabilir. Bu imkân daha önceki kararlara istinaden düzenlenen teşvik belgeleri de dâhil olmak üzere tamamlama vizesi yapılmamış teşvik belgelerine de uygulanır.",
+          "(2) Teknoloji Hamlesi Programı kapsamında desteklenmesine karar verilen yatırımlar, ilgili mevzuatları uyarınca, KOSGEB ve/veya TÜBİTAK tarafından da doğrudan desteklenebilir. Bu yatırımlarda, KOSGEB, TÜBİTAK veya diğer kamu kurum ve kuruluşları tarafından sağlanan desteklerden yararlanılarak gerçekleştirilen yatırım harcamaları, yatırım teşvik belgesine konu yatırımın bütünlüğünün sağlanması kapsamında değerlendirilebilir."
+        ]
+      },
+      {
+        "madde_no": 34,
+        "baslik": "Yürürlükten kaldırılan mevzuat",
+        "paragraflar": [
+          "(1) 15/6/2012 tarihli ve 2012/3305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Karar ve 2/1/2018 tarihli ve 2018/11201 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Cazibe Merkezleri Programı Kapsamında Yatırımların Desteklenmesi Hakkında Karar yürürlükten kaldırılmıştır."
+        ]
+      },
+      {
+        "madde_no": 35,
+        "baslik": "Yürürlük",
+        "paragraflar": [
+          "(1) Bu Kararın;",
+          "a) 5 inci maddesinin on birinci, on ikinci, on üçüncü ve on dördüncü fıkraları 1/1/2026 tarihinde,",
+          "b) Diğer hükümleri yayımı tarihinde,",
+          "yürürlüğe girer."
+        ]
+      },
+      {
+        "madde_no": 36,
+        "baslik": "Yürütme",
+        "paragraflar": [
+          "(1) Bu Karar hükümlerini Sanayi ve Teknoloji Bakanı yürütür."
+        ]
+      },
+      {
+        "madde_no": "Geçici 1",
+        "baslik": "Sonuçlandırılmamış müracaatlar",
+        "paragraflar": [
+          "(1) Bu Kararın yürürlüğe girdiği tarih itibarıyla sonuçlandırılmamış müracaatlar, müracaat tarihinde yürürlükte bulunan kararlar çerçevesinde sonuçlandırılır. Ancak, yeni teşvik belgesi düzenlenmesine ilişkin müracaatlar, talep edilmesi halinde bu Karara istinaden değerlendirilir."
+        ]
+      },
+      {
+        "madde_no": "Geçici 2",
+        "baslik": "Daha önceki kararlara ilişkin uygulama",
+        "paragraflar": [
+          "(1) Bu Kararın yürürlüğe girdiği tarihten önceki kararlara istinaden düzenlenen teşvik belgeleri ile ilgili uygulamalara, teşvik belgesinin dayandığı karar ve ilgili diğer kararlar çerçevesinde devam olunur.",
+          "(2) Daha önceki kararlara istinaden düzenlenen teşvik belgeleri kapsamında temin edilen makine ve teçhizatın bu Karara istinaden düzenlenen teşvik belgesine devri yapılamaz. Ancak, mevzuat düzenlemesi ya da ortaklık yapısı değişikliği nedeniyle yatırımın bağımsız üretim bölümlerine bölünmesi nedeniyle bölünen kısmın bu Karar kapsamında yeni bir teşvik belgesine devredilmesine, varsa fazladan faydalanılan desteğin geri alınması kaydıyla izin verilebilir.",
+          "(3) Bu Karar kapsamında desteklenmeyen yatırım konularında daha önceki kararlara istinaden düzenlenmiş ve tamamlama vizesi yapılmamış teşvik belgelerine ilişkin kapasite artışına yol açacak makine ve teçhizat ilavesi yapılamaz."
+        ]
+      },
+      {
+        "madde_no": "Geçici 3",
+        "baslik": "6/2/2023 tarihinde meydana gelen depremlerden etkilenen ilçelerde uygulama",
+        "paragraflar": [
+          "(1) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi kabul edilen ve 2018/11201 sayılı Cazibe Merkezleri Programı Kapsamında Yatırımların Desteklenmesi Hakkında Kararın ek-2’sinde belirtilen ilçelerde yapılacak yatırımlar için 31/12/2026 tarihine kadar yapılacak müracaatlara istinaden düzenlenen teşvik belgeleri kapsamında 6 ncı bölgede uygulanan destekler aynı oran, miktar, süre ve şartlarda sağlanır. Bu kapsamda desteklenecek imalat sanayii yatırımları (NACE Rev.2.1 kodları: 10-32 arası ve 38.2) için 5 inci maddenin birinci fıkrasında belirtilen şart aranmaz."
+        ]
+      },
+      {
+        "madde_no": "Geçici 4",
+        "baslik": "Cazibe Merkezleri Programı kapsamında yer alan illerde uygulama",
+        "paragraflar": [
+          "(1) 2018/11201 sayılı Kararın ek-1'inde belirtilen illerde yer alan organize sanayi bölgeleri ve endüstri bölgeleri ile Sivas Demirağ Organize Sanayi Bölgesinde yapılacak imalat sanayii yatırımları (NACE Rev.2.1 kodları: 10-32 arası ve 38.2) için, 31/12/2026 tarihine kadar yapılacak müracaatlara istinaden düzenlenen teşvik belgeleri kapsamında 6 ncı bölgede uygulanan destekler aynı oran, miktar, süre ve şartlarda sağlanır."
+        ]
+      },
+      {
+        "madde_no": "Geçici 5",
+        "baslik": "Süresi sona eren desteklere ilişkin uygulama",
+        "paragraflar": [
+          "(1) 2012/3305 sayılı Karar döneminde düzenlenen ve 6 ncı bölge için belirlenen sürede sigorta primi işveren hissesi desteği veya varsa sigorta primi desteği sağlanmış ve uygulama süresi sona eren yatırım teşvik belgesi sahibi yatırımcının talebi halinde, desteğin sona erdiği ay dâhil önceki 12 aylık dönemde ilgili teşvik belgesi kapsamı yatırım için uygulama yapılan işyeri sicil numarası altında istihdam edilenlerin aylık ortalamasının altına düşülmediği aylar için uygulanmak ve ilgili teşvik belgesinde belirtilen ilave istihdam sayısını geçmemek üzere teşvik belgesi üzerinde herhangi bir işlem yapılmaksızın sigorta primi işveren hissesi ve varsa sigorta primi desteği uygulama süresi 31/12/2028 tarihine kadar uzatılır. Bu fıkra kapsamındaki destek uygulamasına, uygulamaya ilişkin bilgilerin Sosyal Güvenlik Kurumuna bildirilmesini takip eden aydan itibaren başlanır."
+        ]
+      }
+    ]
+  }
+]
