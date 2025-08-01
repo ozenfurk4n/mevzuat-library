@@ -24,18 +24,68 @@ function AtifParser({ metin, tumMaddeler }) {
           </h4>
         </div>
         <div className="p-4 space-y-3 max-h-80 overflow-y-auto custom-scrollbar">
-          {madde.paragraflar.map((p, i) => (
-            <div key={i} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
-              <div className="flex items-start space-x-2">
-                <span className="flex-shrink-0 w-5 h-5 bg-primary-100 dark:bg-primary-900 text-primary-600 dark:text-primary-400 text-xs font-bold rounded-full flex items-center justify-center">
-                  {i + 1}
-                </span>
-                <p className="text-xs text-gray-700 dark:text-gray-300 leading-relaxed flex-1">
-                  {p}
-                </p>
+          {madde.paragraflar.map((p, i) => {
+            // Tablo kontrolü
+            if (p.includes('\t') && p.includes('Bölgeler')) {
+              const lines = p.split('\n');
+              const headers = lines[0].split('\t');
+              const data = lines.slice(1).map(line => line.split('\t'));
+              
+              return (
+                <div key={i} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
+                  <div className="flex items-start space-x-2">
+                    <span className="flex-shrink-0 w-5 h-5 bg-primary-100 dark:bg-primary-900 text-primary-600 dark:text-primary-400 text-xs font-bold rounded-full flex items-center justify-center">
+                      {i + 1}
+                    </span>
+                    <div className="flex-1">
+                      <div className="overflow-x-auto">
+                        <table className="min-w-full text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+                          <thead className="bg-gray-50 dark:bg-gray-700">
+                            <tr>
+                              {headers.map((header, idx) => (
+                                <th key={idx} className="px-3 py-2 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600">
+                                  {header}
+                                </th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody className="bg-white dark:bg-gray-800">
+                            {data.map((row, rowIdx) => (
+                              <tr key={rowIdx} className="border-b border-gray-100 dark:border-gray-700 last:border-b-0">
+                                {row.map((cell, cellIdx) => (
+                                  <td key={cellIdx} className="px-3 py-2 text-gray-700 dark:text-gray-300">
+                                    {cell === '-' ? (
+                                      <span className="text-gray-400 dark:text-gray-500">-</span>
+                                    ) : (
+                                      cell
+                                    )}
+                                  </td>
+                                ))}
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              );
+            }
+            
+            // Normal paragraf
+            return (
+              <div key={i} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
+                <div className="flex items-start space-x-2">
+                  <span className="flex-shrink-0 w-5 h-5 bg-primary-100 dark:bg-primary-900 text-primary-600 dark:text-primary-400 text-xs font-bold rounded-full flex items-center justify-center">
+                    {i + 1}
+                  </span>
+                  <p className="text-xs text-gray-700 dark:text-gray-300 leading-relaxed flex-1">
+                    {p}
+                  </p>
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </div>
     );
