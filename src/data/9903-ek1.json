@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9903-ek1",
+    "baslik": "EK-1 - TEKNOLOJİ SINIFLANDIRMASINA GÖRE YATIRIM KONULARI",
+    "maddeler": [
+      {
+        "madde_no": "EK-1",
+        "baslik": "YÜKSEK TEKNOLOJİLİ ÜRÜNLER",
+        "paragraflar": [
+          "NACE Rev. 2.1. Kodu\tTanım\n21\tTemel eczacılık ürünlerinin ve eczacılığa ilişkin preparatların (müstahzarların) imalatı\n26\tBilgisayarların, elektronik ve optik ürünlerin imalatı\n30.3\tHava ve uzay araçları ve ilgili makinelerin imalatı"
+        ]
+      },
+      {
+        "madde_no": "EK-1",
+        "baslik": "ORTA - YÜKSEK TEKNOLOJİLİ ÜRÜNLER",
+        "paragraflar": [
+          "NACE Rev. 2.1. Kodu\tTanım\n20\tKimyasalların ve kimyasal ürünlerin imalatı\n25.3\tSilah ve mühimmat (cephane) imalatı\n27\tElektrikli teçhizat imalatı\n28\tBaşka yerde sınıflandırılmamış makine ve ekipman imalatı\n29\tMotorlu kara taşıtı, treyler (römork) ve yarı treyler (yarı römork) imalatı\n30.2\tDemir yolu lokomotifleri ve vagonlarının imalatı\n30.4\tAskeri kara savaş araçlarının imalatı\n30.9\tBaşka yerde sınıflandırılmamış ulaşım araçlarının imalatı\n32.5\tTıbbi ve dişçilik ile ilgili araç ve gereçlerin imalatı"
+        ]
+      }
+    ]
+  }
+] 

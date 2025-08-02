@@ -1,0 +1,15 @@
+[
+  {
+    "id": "9903-ek2",
+    "baslik": "EK-2 - YATIRIM TEŞVİK UYGULAMALARINDA BÖLGELER",
+    "maddeler": [
+      {
+        "madde_no": "EK-2",
+        "baslik": "YATIRIM TEŞVİK UYGULAMALARINDA BÖLGELER",
+        "paragraflar": [
+          "1. Bölge\t2. Bölge\t3. Bölge\t4. Bölge\t5. Bölge\t6. Bölge\nAnkara\tAydın\tAdana\tAfyonkarahisar\tBartın\tAdıyaman\nAntalya\tBalıkesir\tBilecik\tAksaray\tBayburt\tAğrı\nBursa\tBolu\tBurdur\tAmasya\tÇankırı\tArdahan\nEskişehir\tÇanakkale\tDüzce\tArtvin\tErzurum\tBatman\nİstanbul\tDenizli\tGaziantep\tÇorum\tGiresun\tBingöl\nİzmir\tEdirne\tIsparta\tElâzığ\tHatay\tBitlis\nKocaeli\tKayseri\tKarabük\tErzincan\tKahramanmaraş\tDiyarbakır\nMuğla\tKonya\tKaraman\tKastamonu\tKilis\tGümüşhane\n\tManisa\tKırıkkale\tKırşehir\tNiğde\tHakkâri\n\tMersin\tKırklareli\tMalatya\tOrdu\tIğdır\n\tSakarya\tKütahya\tSivas\tOsmaniye\tKars\n\tTekirdağ\tNevşehir\t\tSinop\tMardin\n\tYalova\tRize\t\tTokat\tMuş\n\t\tSamsun\t\tTunceli\tSiirt\n\t\tTrabzon\t\tYozgat\tŞanlıurfa\n\t\tUşak\t\t\tŞırnak\n\t\tZonguldak\t\t\tVan"
+        ]
+      }
+    ]
+  }
+] 

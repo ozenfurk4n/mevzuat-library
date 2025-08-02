@@ -2,9 +2,35 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { DocumentTextIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
 import ThemeToggle from '../components/ThemeToggle';
-import mevzuatData from '../data/mevzuat.json';
+import mevzuatData from '../data/9903-karar.json';
+import ek1Data from '../data/9903-ek1.json';
+import ek2Data from '../data/9903-ek2.json';
+import ek3Data from '../data/9903-ek3.json';
+import ek4Data from '../data/9903-ek4.json';
+import ek5Data from '../data/9903-ek5.json';
 
 function MevzuatList() {
+  const ek1Maddeler = ek1Data[0]?.maddeler || [];
+  const ek2Maddeler = ek2Data[0]?.maddeler || [];
+  const ek3Maddeler = ek3Data[0]?.maddeler || [];
+  const ek4Maddeler = ek4Data[0]?.maddeler || [];
+  const ek5Maddeler = ek5Data[0]?.maddeler || [];
+  
+  const mainMevzuat = mevzuatData.find(m => m.id === '9903');
+  
+  const updatedMevzuat = mainMevzuat ? {
+    ...mainMevzuat,
+    maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2Maddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+  } : mevzuatData[0];
+  
+  // Show all mevzuat, but with updated main mevzuat
+  const allMevzuat = mevzuatData.map(m => {
+    if (m.id === '9903' && mainMevzuat) {
+      return updatedMevzuat;
+    }
+    return m;
+  });
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800 transition-all duration-300">
       {/* Header */}
@@ -33,7 +59,7 @@ function MevzuatList() {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-          {mevzuatData.map((mevzuat) => (
+          {allMevzuat.map((mevzuat) => (
             <div key={mevzuat.id} className="group">
               <Link to={`/mevzuat/${mevzuat.id}`} className="block">
                 <div className="bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-200 dark:border-gray-700 group-hover:border-primary-300 dark:group-hover:border-primary-600 group-hover:-translate-y-1">
@@ -50,9 +76,13 @@ function MevzuatList() {
                     </h3>
                     
                     <div className="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400">
-                      <span>{mevzuat.maddeler.length} Madde</span>
+                      <span>
+                        {mevzuat.maddeler.filter(m => typeof m.madde_no === 'number').length} Madde, 
+                        {mevzuat.maddeler.filter(m => m.madde_no.toString().startsWith('Geçici')).length} Geçici Madde,
+                        {new Set(mevzuat.maddeler.filter(m => m.madde_no.toString().startsWith('EK')).map(m => m.madde_no)).size} Ek
+                      </span>
                       <span className="px-2 py-1 bg-gray-100 dark:bg-gray-700 rounded-full text-xs">
-                        Karar
+                        {mevzuat.id.includes('ek') ? 'Ek' : 'Karar'}
                       </span>
                     </div>
                   </div>

@@ -43,9 +43,11 @@ function Sidebar({ maddeler, activeMadde }) {
                         ? 'bg-primary-500 animate-pulse' 
                         : 'bg-gray-300 dark:bg-gray-600 group-hover:bg-gray-400 dark:group-hover:bg-gray-500'
                     }`}></div>
-                    <span className="truncate">
-                      <span className="font-medium">{madde.madde_no}</span> - {madde.baslik}
-                    </span>
+                                         <span className="truncate">
+                       <span className="font-medium">
+                         {madde.madde_no === "EK-1" || madde.madde_no === "EK-2" || madde.madde_no === "EK-3" ? madde.madde_no : `${madde.madde_no} -`}
+                       </span> {madde.baslik}
+                     </span>
                   </div>
                 </a>
               </li>
