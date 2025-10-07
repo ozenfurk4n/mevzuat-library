@@ -1,0 +1,27 @@
+[
+  {
+    "id": "3213-kanun-2",
+    "baslik": "3213 Sayılı Maden Kanunu - MADDE 2",
+    "kanun_no": "3213",
+    "kanun_adi": "Maden Kanunu",
+    "madde_no": "2",
+    "baslik_madde": "Madenler",
+    "maddeler": [
+      {
+        "madde_no": "2",
+        "baslik": "Madenler",
+        "paragraflar": [
+          "Yer kabuğunda ve su kaynaklarında tabii olarak bulunan, ekonomik ve ticarî değeri olan petrol, doğal gaz, jeotermal ve su kaynakları dışında kalan her türlü madde bu Kanuna göre madendir.",
+          "Madenler aşağıda sıralanan gruplara göre ruhsatlandırılır:",
+          "I. Grup madenler",
+          "a) İnşaat ile yol yapımında kullanılan ve tabiatta doğal olarak bulunan kum ve çakıl.",
+          "b) Tuğla-kiremit kili, Çimento kili, Marn, Puzolanik kayaç (Tras) ile çimento ve seramik sanayilerinde kullanılan ve diğer gruplarda yer almayan kayaçlar.",
+          "II. Grup madenler",
+          "a) Kalsit, Dolomit, Kalker, Granit, Andezit, Bazalt gibi kayaçlardan agrega, hazır beton ve asfalt yapılarak kullanılan kayaçlar.",
+          "b) Mermer, Traverten, Granit, Andezit, Bazalt gibi blok olarak üretilen taşlar ile dekoratif amaçla kullanılan doğal taşlar.",
+          "c) Kalsit, Dolomit, Kalker, Granit, Andezit, Bazalt gibi kayaçlardan entegre çimento, kireç ve kalsit öğütme tesisinde kullanılan kayaçlar."
+        ]
+      }
+    ]
+  }
+]

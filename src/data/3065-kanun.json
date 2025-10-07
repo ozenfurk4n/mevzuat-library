@@ -1,0 +1,47 @@
+[
+  {
+    "id": "3065-kanun",
+    "baslik": "3065 Sayılı Katma Değer Vergisi Kanunu",
+    "kanun_no": "3065",
+    "kanun_adi": "Katma Değer Vergisi Kanunu",
+    "maddeler": [
+      {
+        "madde_no": "13",
+        "baslik": "Araçlar, kıymetli maden ve petrol aramaları ile ulusal güvenlik harcamaları ve yatırımlarda istisna",
+        "paragraflar": [
+          "Aşağıdaki teslim ve hizmetler vergiden müstesnadır.",
+          "(...)",
+          "d) (Ek: 22/7/1998-4369/59 md.) Yatırım Teşvik Belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat teslimleri ile belge kapsamındaki yazılım ve gayri maddi hak satış ve kiralamaları (Şu kadar ki, yatırım teşvik belgesinde öngörüldüğü şekilde gerçekleşmemesi halinde, zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte tahsil edilir. Zamanında alınmayan vergiler ile vergi cezalarında zamanaşımı, verginin tarhını veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar)."
+        ]
+      },
+      {
+        "madde_no": "16",
+        "baslik": "İthalat istisnaları",
+        "paragraflar": [
+          "1. Aşağıdaki teslim ve hizmetler vergiden müstesnadır:",
+          "a) Bu Kanuna göre teslimleri vergiden istisna edilen mal ve hizmetlerin ithali,",
+          "b) (Değişik : 27/1/2000 - 4503/1 md.) 4458 sayılı Gümrük Kanununun 167 nci maddesinin birinci fıkrası [(3) numaralı bendi, (5) numaralı bendinin (a) alt bendi, (7) numaralı bendi ile (12) numaralı bendinin (a) alt bendi hariç] geçici ithalat ve hariçte işleme rejimleri ile geri gelen eşyaya ilişkin hükümleri kapsamında gümrük vergisinden muaf veya müstesna olan eşyanın ithali, (Bu Kanunun 11 inci maddesinde düzenlenen ihracat istisnasından yararlanarak ihraç olunan ancak, Gümrük Kanununun 168,169 ve 170 inci maddelerinde belirtildiği şekilde geri gelen eşyanın ithalat istisnasından faydalanabilmesi için, bu eşyayla ilgili olarak ihracat istisnasından faydalanılan miktarın gümrük idarelerine ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.)"
+        ]
+      },
+      {
+        "madde_no": "32",
+        "baslik": "İstisna edilmiş işlemlere indirim",
+        "paragraflar": [
+          "Bu Kanunun 11, 13, 14 ve 15 inci maddeleri ile 17 nci maddenin (4) numaralı fıkrasının (s) bendi uyarınca vergiden istisna edilmiş bulunan işlemlerle ilgili fatura ve benzeri vesikalarda gösterilen Katma Değer Vergisi, mükellefin vergiye tabi işlemleri üzerinden hesaplanacak Katma Değer Vergisinden indirilir. Vergiye tabi işlemlerin mevcut olmaması veya hesaplanan verginin indirilecek vergiden az olması hallerinde indirilemeyen Katma Değer Vergisi, işlemin gerçekleştiği dönemi izleyen ikinci takvim yılının sonuna kadar talep edilmesi şartıyla Maliye ve Gümrük Bakanlığınca, tespit edilecek esaslara göre bu işlemleri yapanlara iade olunur.",
+          "(Ek fıkra: 25/12/2003-5035/10 md.; Mülga:16/7/2004-5228/60 md.)",
+          "(Ek fıkra: 25/12/2003-5035/10 md.) Maliye Bakanlığı katma değer vergisi iadesini, hak sahiplerinin vergi ve sosyal sigorta prim borçları ile genel ve katma bütçeli daireler ile belediyelere olan borçlarına ya da döner sermayeli kuruluşlar ile sermayesinin % 51'i veya daha fazlası kamuya ait olan veya özelleştirme kapsamında bulunan işletmelerden temin ettikleri mal ve hizmet bedellerine ilişkin borçlarına mahsup suretiyle sınırlamaya; imalatçılar tarafından yapılan ihracat işlemlerinden kaynaklanan iadelerde, yüklenilen katma değer vergisi yerine sektörler itibarıyla ihracat bedelinin belli bir oranına kadar iade yaptırmaya yetkilidir."
+        ]
+      },
+      {
+        "madde_no": "Geçici Madde 30",
+        "baslik": "Yatırım teşvik belgeleri kapsamında KDV iadesi",
+        "paragraflar": [
+          "(Ek: 31/5/2012-6322/25 md.)",
+          "31/12/2023 tarihine kadar uygulanmak üzere, yatırım teşvik belgeleri kapsamında asgari 500 milyon Türk Lirası tutarında sabit yatırım öngörülen (...) yatırımlara ilişkin inşaat işleri nedeniyle yüklenilen ve takvim yılı sonuna kadar indirim yoluyla telafi edilemeyen katma değer vergisi, izleyen yıl talep edilmesi halinde belge sahibi mükellefe iade olunur. Teşvik belgesine konu yatırımın tamamlanmaması halinde, iade edilen vergiler, vergi ziyaı cezası uygulanarak iade tarihinden itibaren gecikme faizi ile birlikte tahsil edilir. Bu vergiler ve cezalarında zamanaşımı, verginin tarhını veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılı başında başlar.",
+          "(Ek fıkra: 20/8/2016-6745/36 md.) Bu madde kapsamında yer alan asgari sabit yatırım tutarını sektörler itibarıyla veya topluca 50 milyon Türk lirasına kadar indirmeye veya iki katına kadar artırmaya Cumhurbaşkanı yetkilidir.",
+          "Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir."
+        ]
+      }
+    ]
+  }
+]

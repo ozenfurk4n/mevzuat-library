@@ -1,0 +1,33 @@
+[
+  {
+    "id": "2012-3305-ek3",
+    "baslik": "EK-3 BÜYÜK ÖLÇEKLİ YATIRIMLAR",
+    "karar_no": "2012/3305",
+    "maddeler": [
+      {
+        "madde_no": "EK-3",
+        "baslik": "Büyük Ölçekli Yatırımlar",
+        "tablo": {
+          "baslik": "Büyük Ölçekli Yatırımlar Tablosu",
+          "veriler": [
+            "Sıra No\tYatırım Konuları\tAsgari Sabit Yatırım Tutarları (Milyon TL)",
+            "1\tRafine Edilmiş Petrol Ürünleri İmalatı\t1000",
+            "2\tKimyasal Madde ve Ürünlerin İmalatı\t200",
+            "3\tLiman ve Liman Hizmetleri Yatırımları\t200",
+            "4\tMotorlu Kara Taşıtlarının İmalatı Yatırımları:\ta) Motorlu Kara Taşıtları Ana Sanayi Yatırımları\t200",
+            "4b\t\tb) Motorlu Kara Taşıtları Yan Sanayi Yatırımları\t50",
+            "5\tDemiryolu ve Tramvay Lokomotifleri ve/veya Vagon İmalatı Yatırımları\t50",
+            "6\tTransit Boru Hattıyla Taşımacılık Hizmetleri Yatırımları\t50",
+            "7\tElektronik Sanayi Yatırımları\t50",
+            "8\tTıbbi Alet, Hassas ve Optik Aletler İmalatı Yatırımları\t50",
+            "9\tİlaç Üretimi Yatırımları\t50",
+            "10\tHava ve Uzay Taşıtları ve/veya Parçaları İmalatı Yatırımları\t50",
+            "11\tMakine (Elektrikli Makine ve Cihazlar Dahil) İmalatı Yatırımları\t50",
+            "12\tMetal Üretimine Yönelik Yatırımlar: [Maden Kanununda belirtilen IV/c grubu metalik madenlerin cevher ve/veya konsantresinden nihai metal üretimine yönelik yatırımlar (bu tesislere entegre madencilik yatırımları dahil)]\t50"
+          ]
+        },
+        "paragraflar": []
+      }
+    ]
+  }
+]

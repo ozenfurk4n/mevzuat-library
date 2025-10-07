@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2012-3305-ek2a",
+    "baslik": "YATIRIM TEŞVİK UYGULAMALARINDAN FAYDALANABİLECEK SEKTÖRLER VE BÖLGELER İTİBARİYLE ASGARİ YATIRIM TUTARLARI VEYA KAPASİTELERİ",
+    "maddeler": [
+      {
+        "madde_no": "EK-2A",
+        "baslik": "Yatırım Teşvik Uygulamalarından Faydalanabilecek Sektörler ve Bölgeler İtibariyle Asgari Yatırım Tutarları veya Kapasiteleri",
+        "tablo": {
+          "baslik": "Bölgesel Teşviklerden Yararlanacak Sektörler ve Asgari Yatırım Tutarları",
+          "veriler": [
+            "Sıra No\tUS-97 Kodu\tBölgesel Teşviklerden Yararlanacak Sektörler\t1. Bölge\t2. Bölge\t3. Bölge\t4. Bölge\t5. Bölge\t6. Bölge",
+            "1\t0121\tEntegre damızlık hayvancılık yatırımları dahil olmak üzere entegre hayvancılık yatırımları (dipnot 5'te belirtilen asgari kapasite şartlarına uymayan yatırımlar hariç)\t1 Milyon TL\t1 Milyon TL\t500 Bin TL\t500 Bin TL\t500 Bin TL\t500 Bin TL",
+            "2\t0500.0.04\tSu ürünleri yetiştiriciliği (balık yavrusu ve yumurtası üretimi dahil)\t2 Milyon TL\t1 Milyon TL\t500 Bin TL\t500 Bin TL\t500 Bin TL\t500 Bin TL",
+            "3\t15\tGıda ürünleri ve içecek imalatı (dip not 6'da belirtilen yatırım konuları hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "4\t17\tTekstil ürünleri imalatı (dip not 8'de belirtilen şartları sağlamayan iplik ve dokuma yatırımları hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "5\t19\tDeri ve deri ürünleri imalatı (dipnot 7'de belirtilen şartları sağlamayan yatırımlar hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "6\t1911\tDeri tabaklama ve işleme\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "7\t1912 ve 1920\tTekstilin aprelenmesi\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL\tTekstilin aprelenmesi yatırımları için 10 Milyon TL, diğer yatırım konularında 2 Milyon TL",
+            "8\t20\tGiyim eşyası imalatı\tDesteklenmemektedir\tDesteklenmemektedir\t1 Milyon TL'nin üzerindeki tevsi ve modernizasyon yatırımları\t1 Milyon TL'nin üzerindeki tevsi ve modernizasyon yatırımları\t500 Bin TL\t500 Bin TL",
+            "9\t21\tMetalik olmayan mineral ürünlerin imalatı (cam ve cam ürünleri, fırınlanmış kilden kiremit, briket, tuğla ve inşaat malzemeleri, çimento, hazır beton ve harç hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "10\t24\tKimyasal madde ve ürünlerin imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "11\t2412\tGübre ve azot bileşikleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "12\t2421\tBoya ve vernik imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "13\t2423\tİlaç ve eczacılık ürünleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "14\t2424\tSabun ve deterjan, parfüm ve tuvalet malzemeleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "15\t2429.1\tPlastik ve sentetik kauçuk imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "16\t2511\tAğaç ve mantar ürünleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "17\t26\tKağıt ve kağıt ürünleri imalatı (dipnot 4'te belirtilen şartları sağlamayan yatırımlar hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "18\t2610.1\tEntegre kağıt ve kağıt ürünleri üretimi (hamur üretiminden başlayarak)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "19\t2691.2\tKarton ve mukavva imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "20\t2695.1\tKağıt ve karton ambalaj malzemeleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "21\t2720\tMetalik olmayan mineral ürünlerin imalatı (cam ve cam ürünleri hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "22\t28\tMetalik olmayan mineral ürünlerin imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "23\t2812.2\tCam ve cam ürünleri imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "24\t29\tMetal eşya imalatı (makine ve teçhizat hariç)\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "25\t2929\tMakine ve teçhizat imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "26\t30\tBilgisayar, elektronik ve optik ürünlerin imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "27\t31\tElektrikli teçhizat imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "28\t32\tMakine ve teçhizat imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "29\t33\tOtomotiv, römork ve yarı römork imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "30\t34\tDiğer ulaştırma araçları imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "31\t3530.0.15\tMotorlu kara taşıtı ve yan sanayi\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 4 Milyon TL\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 3 Milyon TL\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 2 Milyon TL\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 1 Milyon TL\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 1 Milyon TL\tMotorlu kara taşıtlarında yatırım tutarı 50 Milyon TL; motorlu kara taşıtları yan sanayinde yatırım tutarı 500 Bin TL",
+            "32\t3591\tMobilya imalatı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "33\t361\tElektrik üretimi, iletimi ve dağıtımı\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "34\t5510.1.01\tOteller\t3 yıldız ve üzeri\t3 yıldız ve üzeri\t3 yıldız ve üzeri\t3 yıldız ve üzeri\t3 yıldız ve üzeri\t500 Bin TL",
+            "35\t5510.3.01\tÖğrenci yurtları\t100 öğrenci\t100 öğrenci\t100 öğrenci\t100 öğrenci\t100 öğrenci\t500 Bin TL",
+            "36\t6302.0.01\tSoğuk hava deposu hizmetleri\t1.000 metrekare\t1.000 metrekare\t1.000 metrekare\t500 metrekare\t500 metrekare\t500 Bin TL",
+            "37\t6302.0.03\tLojistik hizmetler\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "38\t80\tEğitim\t4 Milyon TL\t3 Milyon TL\t2 Milyon TL\t1 Milyon TL\t1 Milyon TL\t500 Bin TL",
+            "39\t8511.0.01-05\tHastane yatırımı, huzurevi\tHastane: 1 Milyon TL, Huzurevi: 100 kişi\tHastane: 1 Milyon TL, Huzurevi: 100 kişi\tHastane: 500 Bin TL, Huzurevi: 100 kişi\tHastane: 500 Bin TL, Huzurevi: 100 kişi\tHastane: 500 Bin TL, Huzurevi: 100 kişi\tHastane: 500 Bin TL, Huzurevi: 100 kişi",
+            "40\t50\tSeracılık\t40 dekar\t40 dekar\t20 dekar\t10 dekar\t10 dekar\t5 dekar"
+          ]
+        },
+        "paragraflar": []
+      }
+    ]
+  }
+]

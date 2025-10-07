@@ -1,11 +1,15 @@
 import React from 'react';
 import { useTheme } from '../contexts/ThemeContext';
 
-function Sidebar({ maddeler, activeMadde }) {
+function Sidebar({ maddeler, activeMadde, isFullscreen = false, isVisible = true }) {
   const { theme } = useTheme();
   
+  if (!isVisible) return null;
+  
   return (
-    <aside className="w-full md:w-1/4 md:sticky top-0 h-screen overflow-y-auto bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm border-r border-gray-200 dark:border-gray-700 shadow-sm">
+    <aside className={`w-full h-screen overflow-y-auto bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm border-r border-gray-200 dark:border-gray-700 shadow-sm transition-all duration-300 ${
+      isFullscreen ? 'w-80' : 'md:w-1/4'
+    }`}>
       <div className="p-6">
         <nav>
           <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-6 flex items-center">

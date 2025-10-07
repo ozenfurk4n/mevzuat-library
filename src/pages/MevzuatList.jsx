@@ -5,6 +5,15 @@ import ThemeToggle from '../components/ThemeToggle';
 import mevzuatData from '../data/9903-karar.json';
 import mevzuat2012Data from '../data/2012-3305-karar.json';
 import mevzuat2012Ek1Data from '../data/2012-3305-ek1.json';
+import mevzuat2012Ek2aData from '../data/2012-3305-ek2a.json';
+import mevzuat2012Ek2bData from '../data/2012-3305-ek2b.json';
+import mevzuat2012Ek3Data from '../data/2012-3305-ek3.json';
+import mevzuat2012Ek4Data from '../data/2012-3305-ek4.json';
+import mevzuat2012Ek5Data from '../data/2012-3305-ek5.json';
+import kanun5520Data from '../data/5520-kanun-32a.json';
+import kanun3213Data from '../data/3213-kanun-2.json';
+import kanun4706Data from '../data/4706-kanun-ek3.json';
+import kanun3065Data from '../data/3065-kanun.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -25,14 +34,14 @@ function MevzuatList() {
     maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2Maddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
   } : mevzuatData[0];
   
-  // Update 2012/3305 mevzuat with EK-1
+  // Update 2012/3305 mevzuat with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
   const updated2012Mevzuat = mevzuat2012Data[0] ? {
     ...mevzuat2012Data[0],
-    maddeler: [...mevzuat2012Data[0].maddeler, ...mevzuat2012Ek1Data[0]?.maddeler || []]
+    maddeler: [...mevzuat2012Data[0].maddeler, ...mevzuat2012Ek1Data[0]?.maddeler || [], ...mevzuat2012Ek2aData[0]?.maddeler || [], ...mevzuat2012Ek2bData[0]?.maddeler || [], ...mevzuat2012Ek3Data[0]?.maddeler || [], ...mevzuat2012Ek4Data[0]?.maddeler || [], ...mevzuat2012Ek5Data[0]?.maddeler || []]
   } : mevzuat2012Data[0];
   
   // Show all mevzuat, but with updated main mevzuat
-  const allMevzuat = [...mevzuatData, ...mevzuat2012Data].map(m => {
+  const allMevzuat = [...mevzuatData, ...mevzuat2012Data, ...kanun5520Data, ...kanun3213Data, ...kanun4706Data, ...kanun3065Data].map(m => {
     if (m.id === '9903' && mainMevzuat) {
       return updatedMevzuat;
     }

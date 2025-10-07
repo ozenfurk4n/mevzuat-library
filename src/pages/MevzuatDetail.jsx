@@ -4,6 +4,15 @@ import { ArrowLeftIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
 import mevzuatData from '../data/9903-karar.json';
 import mevzuat2012Data from '../data/2012-3305-karar.json';
 import mevzuat2012Ek1Data from '../data/2012-3305-ek1.json';
+import mevzuat2012Ek2aData from '../data/2012-3305-ek2a.json';
+import mevzuat2012Ek2bData from '../data/2012-3305-ek2b.json';
+import mevzuat2012Ek3Data from '../data/2012-3305-ek3.json';
+import mevzuat2012Ek4Data from '../data/2012-3305-ek4.json';
+import mevzuat2012Ek5Data from '../data/2012-3305-ek5.json';
+import kanun5520Data from '../data/5520-kanun-32a.json';
+import kanun3213Data from '../data/3213-kanun-2.json';
+import kanun4706Data from '../data/4706-kanun-ek3.json';
+import kanun3065Data from '../data/3065-kanun.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -11,13 +20,14 @@ import ek4Data from '../data/9903-ek4.json';
 import ek5Data from '../data/9903-ek5.json';
 import Sidebar from '../components/Sidebar';
 import AtifParser from '../components/AtifParser';
+import Table from '../components/Table';
 import ThemeToggle from '../components/ThemeToggle';
 
 function MevzuatDetail() {
   const { id } = useParams();
   
   // Find the main mevzuat
-  let mevzuat = mevzuatData.find((m) => m.id === id) || mevzuat2012Data.find((m) => m.id === id);
+  let mevzuat = mevzuatData.find((m) => m.id === id) || mevzuat2012Data.find((m) => m.id === id) || kanun5520Data.find((m) => m.id === id) || kanun3213Data.find((m) => m.id === id) || kanun4706Data.find((m) => m.id === id) || kanun3065Data.find((m) => m.id === id);
   
   // If this is the main mevzuat (9903), add EK-1, EK-2, EK-3, EK-4 and EK-5 maddeler to it
   if (mevzuat && mevzuat.id === '9903') {
@@ -32,13 +42,18 @@ function MevzuatDetail() {
     };
   }
   
-  // If this is the 2012/3305 mevzuat, add EK-1 maddeler to it
+  // If this is the 2012/3305 mevzuat, add EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5 maddeler to it
   if (mevzuat && mevzuat.id === '2012-3305') {
     const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
     
     mevzuat = {
       ...mevzuat,
-      maddeler: [...mevzuat.maddeler, ...ek1Maddeler]
+      maddeler: [...mevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
     };
   }
   
@@ -105,6 +120,92 @@ function MevzuatDetail() {
       };
     }
   }
+  
+  // If this is EK-2A (2012-3305-ek2a), find the main mevzuat and show it with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
+  if (mevzuat && mevzuat.id === '2012-3305-ek2a') {
+    const mainMevzuat = mevzuat2012Data.find(m => m.id === '2012-3305');
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
+    if (mainMevzuat) {
+      mevzuat = {
+        ...mainMevzuat,
+        maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+      };
+    }
+  }
+  
+  // If this is EK-2B (2012-3305-ek2b), find the main mevzuat and show it with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
+  if (mevzuat && mevzuat.id === '2012-3305-ek2b') {
+    const mainMevzuat = mevzuat2012Data.find(m => m.id === '2012-3305');
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
+    if (mainMevzuat) {
+      mevzuat = {
+        ...mainMevzuat,
+        maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+      };
+    }
+  }
+  
+  // If this is EK-3 (2012-3305-ek3), find the main mevzuat and show it with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
+  if (mevzuat && mevzuat.id === '2012-3305-ek3') {
+    const mainMevzuat = mevzuat2012Data.find(m => m.id === '2012-3305');
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
+    if (mainMevzuat) {
+      mevzuat = {
+        ...mainMevzuat,
+        maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+      };
+    }
+  }
+  
+  // If this is EK-4 (2012-3305-ek4), find the main mevzuat and show it with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
+  if (mevzuat && mevzuat.id === '2012-3305-ek4') {
+    const mainMevzuat = mevzuat2012Data.find(m => m.id === '2012-3305');
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
+    if (mainMevzuat) {
+      mevzuat = {
+        ...mainMevzuat,
+        maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+      };
+    }
+  }
+  
+  // If this is EK-5 (2012-3305-ek5), find the main mevzuat and show it with EK-1, EK-2A, EK-2B, EK-3, EK-4 and EK-5
+  if (mevzuat && mevzuat.id === '2012-3305-ek5') {
+    const mainMevzuat = mevzuat2012Data.find(m => m.id === '2012-3305');
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    const ek2aMaddeler = mevzuat2012Ek2aData[0]?.maddeler || [];
+    const ek2bMaddeler = mevzuat2012Ek2bData[0]?.maddeler || [];
+    const ek3Maddeler = mevzuat2012Ek3Data[0]?.maddeler || [];
+    const ek4Maddeler = mevzuat2012Ek4Data[0]?.maddeler || [];
+    const ek5Maddeler = mevzuat2012Ek5Data[0]?.maddeler || [];
+    if (mainMevzuat) {
+      mevzuat = {
+        ...mainMevzuat,
+        maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2aMaddeler, ...ek2bMaddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+      };
+    }
+  }
+  
   const [activeMadde, setActiveMadde] = useState(null);
   const mainContentRef = useRef(null);
 
@@ -263,7 +364,11 @@ function MevzuatDetail() {
                       </header>
                       
                       <div className="prose prose-gray dark:prose-invert max-w-none">
-                        <AtifParser metin={madde.paragraflar} tumMaddeler={mevzuat.maddeler} />
+                        {madde.tablo ? (
+                          <Table data={madde.tablo.veriler} title={madde.tablo.baslik} />
+                        ) : (
+                          <AtifParser metin={madde.paragraflar} tumMaddeler={mevzuat.maddeler} />
+                        )}
                       </div>
                     </article>
                   ))}
