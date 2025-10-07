@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { DocumentTextIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
 import ThemeToggle from '../components/ThemeToggle';
 import mevzuatData from '../data/9903-karar.json';
+import mevzuat2012Data from '../data/2012-3305-karar.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -24,7 +25,7 @@ function MevzuatList() {
   } : mevzuatData[0];
   
   // Show all mevzuat, but with updated main mevzuat
-  const allMevzuat = mevzuatData.map(m => {
+  const allMevzuat = [...mevzuatData, ...mevzuat2012Data].map(m => {
     if (m.id === '9903' && mainMevzuat) {
       return updatedMevzuat;
     }

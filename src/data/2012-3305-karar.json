@@ -1,0 +1,314 @@
+[
+  {
+    "id": "2012-3305",
+    "baslik": "Yatırımlarda Devlet Yardımları Hakkında Karar",
+    "karar_sayisi": "2012/3305",
+    "maddeler": [
+      {
+        "madde_no": 1,
+        "baslik": "Amaç",
+        "paragraflar": [
+          "(1) Bu Kararın amacı; kalkınma planları ve yıllık programlarda öngörülen hedefler doğrultusunda tasarrufların katma değeri yüksek yatırımlara yönlendirilmesine, üretim ve istihdamın artırılmasına, uluslararası rekabet gücünü artıracak ve araştırma- geliştirme içeriği yüksek bölgesel ve büyük ölçekli yatırımlar ile stratejik yatırımların özendirilmesine, uluslararası doğrudan yatırımların artırılmasına, bölgesel gelişmişlik farklılıklarının azaltılmasına, kümelenme ve çevre korumaya yönelik yatırımlar ile araştırma ve geliştirme faaliyetlerinin desteklenmesine ilişkin usul ve esasları belirlemektir."
+        ]
+      },
+      {
+        "madde_no": 2,
+        "baslik": "Tanımlar",
+        "paragraflar": [
+          "(1) Bu Kararın uygulanmasında;",
+          "a) Aracı kurum: Faiz desteğini uygulayacak kamu bankaları dâhil olmak üzere bankaları ve finansal kiralama şirketlerini,",
+          "b) AR-GE yatırımı: Yeni bir ürün geliştirilmesi, ürün kalite ve standardının yükseltilmesi, maliyet düşürücü ve standart yükseltici yeni bir teknolojinin ülke şartlarına uyumunun sağlanması amacıyla bilimsel esaslara uygun olarak yapılan ve her aşaması belirlenmiş araştırma ve geliştirme çalışmaları için gerçekleştirilecek yatırımları,",
+          "c) Bakan: Ekonomi Bakanını,",
+          "ç) Bakanlık: Ekonomi Bakanlığını,",
+          "d) Büyük ölçekli yatırım: 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 32/A maddesi kapsamında belirlenen ve EK-3'te gösterilen yatırımları,",
+          "e) Çevre yatırımı: Doğrudan ticari mal üretimine yönelik olmayan, mevcut veya gerçekleştirilecek tesislerin katı, sıvı veya gaz gibi atıklarının temizlenmesine veya yok edilmesine yönelik yatırımları,",
+          "f) Genel Müdürlük: Ekonomi Bakanlığı Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğünü,",
+          "g) Komisyon: Ekonomi Bakanlığı bünyesinde Bakan onayı ile oluşturulan Stratejik Yatırımları Değerlendirme Komisyonunu,",
+          "ğ) Muhasebe birimi: Ekonomi Bakanlığı muhasebe birimini,",
+          "h) Sabit yatırım tutarı: Arazi-arsa, bina-inşaat, makine ve teçhizat ile diğer yatırım harcaması kalemlerinin toplamını,",
+          "ı) Teşvik belgesi: Yatırım teşvik belgesini,",
+          "i) Ürün: Teşvik belgesine konu yatırımla elde edilmesi amaçlanan asıl işlem görmüş imalat sanayi ürün veya ürünlerini,",
+          "j) Yatırımcı: Teşvik belgesi kapsamı yatırımı gerçekleştirecek gerçek veya tüzel kişileri,",
+          "k) Yerel birimler: Kalkınma Ajansları, sanayi odaları ve Bakanlıkça görevlendirilecek diğer odaları,",
+          "ifade eder."
+        ]
+      },
+      {
+        "madde_no": 3,
+        "baslik": "Bölgeler",
+        "paragraflar": [
+          "(1) Bu Karar kapsamında yer alan desteklerin uygulanması açısından iller, sosyo-ekonomik gelişmişlik seviyeleri dikkate alınarak EK-1'de belirtilen altı bölgeye ayrılmıştır."
+        ]
+      },
+      {
+        "madde_no": 4,
+        "baslik": "Teşvik sistemi ve destek unsurları",
+        "paragraflar": [
+          "(1) Teşvik sistemi; genel, bölgesel, büyük ölçekli ve stratejik yatırımların teşviki uygulamalarından oluşur.",
+          "(2) Genel teşvik uygulamaları: Bölgesel, büyük ölçekli ve stratejik yatırımlar ile EK-4'te yer alan teşvik edilmeyecek yatırım konuları ve teşviki için EK-4'te öngörülen şartları sağlayamayan yatırım konuları hariç olmak üzere, 5 inci maddede belirtilen sabit yatırım tutarları ve üzerindeki yatırımlar bölge ayrımı yapılmaksızın aşağıdaki destek unsurlarından yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti.",
+          "b) Katma Değer Vergisi (KDV) istisnası.",
+          "c) Gelir vergisi stopajı desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "ç) Sigorta primi işveren hissesi desteği (tersanelerin gemi inşa yatırımları için).",
+          "(3) Bölgesel teşvik uygulamaları: EK-2B'de iller itibarıyla karşılarında numaraları belirtilen sektörler, EK-2A'da ilin bulunduğu bölgedeki şartları sağlamaları halinde aşağıdaki desteklerden yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti.",
+          "b) KDV istisnası.",
+          "c) Vergi indirimi.",
+          "ç) Sigorta primi işveren hissesi desteği.",
+          "d) Yatırım yeri tahsisi.",
+          "e) Faiz desteği (3 üncü, 4 üncü, 5 inci ve 6 ncı bölgelerdeki yatırımlar için).",
+          "f) Gelir vergisi stopajı desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "g) Sigorta primi desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "(4) Büyük ölçekli yatırımlar: EK-3'te belirtilen asgari tutarları sağlayan yatırım konuları aşağıdaki desteklerden yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti.",
+          "b) KDV istisnası.",
+          "c) Vergi indirimi.",
+          "ç) Sigorta primi işveren hissesi desteği.",
+          "d) Yatırım yeri tahsisi.",
+          "e) Gelir vergisi stopajı desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "f) Sigorta primi desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "(5) Stratejik yatırımlar: 8 inci maddedeki kriterleri sağlayan yatırımlar bölge farkı gözetilmeksizin aşağıdaki desteklerden yararlandırılabilir.",
+          "a) Gümrük vergisi muafiyeti",
+          "b) KDV istisnası.",
+          "c) Vergi indirimi.",
+          "ç) Sigorta primi işveren hissesi desteği.",
+          "d) Yatırım yeri tahsisi.",
+          "e) Faiz desteği.",
+          "f) KDV iadesi.",
+          "g) Gelir vergisi stopajı desteği  (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "ğ) Sigorta primi desteği (6 ncı bölgede gerçekleştirilecek yatırımlar için).",
+          "(6) Üçüncü, dördüncü ve beşinci fıkralar kapsamında teşvik belgesi düzenlenebilecek olan yatırımlar için talep edilmesi halinde genel teşvik uygulamaları çerçevesinde belge düzenlenebilir."
+        ]
+      },
+      {
+        "madde_no": 5,
+        "baslik": "Sabit yatırım tutarı ve asgari kapasite",
+        "paragraflar": [
+          "(1) Yatırımların destek unsurlarından yararlanabilmesi için asgari sabit yatırım tutarının; 1 inci ve 2 nci bölgelerde birmilyon Türk Lirası, 3 üncü, 4 üncü, 5 inci ve 6 ncı bölgelerde ise beşyüzbin Türk Lirası olması gerekir. Ancak, desteklerden yararlanacak yatırımların varsa 8 inci maddede veya ekli listelerde belirlenen asgari kapasite, sabit yatırım tutarı ve diğer şartları sağlaması da gerekir.",
+          "(2) Finansal kiralama yöntemiyle yapılacak yatırımlarda finansal kiralamaya konu makine ve teçhizata ait toplam tutarın, her bir finansal kiralama şirketi için asgari ikiyüzbin Türk Lirası olması gerekir.",
+          "(3) Teşvik belgesi kapsamında yatırım harcaması olarak kabul edilen maddi olmayan duran varlıkların (marka, lisans, know-how vb.) oranı, teşvik belgesinde kayıtlı toplam sabit yatırım tutarının yüzde ellisini aşamaz."
+        ]
+      },
+      {
+        "madde_no": 6,
+        "baslik": "Müracaat",
+        "paragraflar": [
+          "(1) Teşvik belgesi müracaatları, tebliğle belirlenecek bilgi ve belgelerle Bakanlığa yapılır. Ancak, genel teşvik uygulamaları kapsamında yer alan ve sabit yatırım tutarı onmilyon Türk Lirasını aşmayan, tebliğle belirlenecek yatırımlar için yatırımcının tercihine bağlı olarak yatırımın yapılacağı yerdeki yerel birimlere de müracaat edilebilir.",
+          "(2) Müracaat sahibi tarafından; teşvik belgesine ilişkin müracaatın Bakanlığa yapılması halinde dörtyüz Türk Lirası Bakanlık Döner Sermaye İşletmesi hesabına, yerel birimlere yapılması halinde üçyüz Türk Lirası Bakanlık Döner Sermaye İşletmesi hesabına, yüz Türk Lirası ise ilgili yerel birim hesabına yatırılır. Bu meblağlar hiçbir surette iade edilmez.",
+          "(3) İlgili yerel birimlerce, teşvik belgesi ile ilgili olarak yapılacak işlemler için tebliğle belirlenen ücretlerin dışında ilave hiçbir ücret talep edilemez."
+        ]
+      },
+      {
+        "madde_no": 7,
+        "baslik": "Teşvik belgesi düzenlenmesi",
+        "paragraflar": [
+          "(1) Yatırımların bu Karar kapsamındaki destek unsurlarından yararlanabilmesi için, makroekonomik programlar ve arz-talep dengesi dikkate alınarak yapılacak sektörel, malî ve teknik değerlendirmeler çerçevesinde projenin uygun görülmesi ve teşvik belgesi düzenlenmesi gerekir.",
+          "(2) Teşvik belgesi düzenlenmesine ilişkin müracaat tarihinden önce gerçekleştirilmiş bulunan yatırım harcamaları teşvik belgesi kapsamına alınmaz.",
+          "(3) Finansal kiralama yöntemiyle gerçekleştirilecek yatırımlar için finansal kiralama şirketi adına ayrı bir teşvik belgesi düzenlenmez."
+        ]
+      },
+      {
+        "madde_no": 8,
+        "baslik": "Stratejik yatırımlar",
+        "paragraflar": [
+          "(1) Aşağıda yer alan kriterlerin tamamını birlikte sağlayan, ithalat bağımlılığı yüksek ürünlerin üretimine yönelik yatırımlar stratejik yatırım olarak değerlendirilir.",
+          "a) Asgari sabit yatırım tutarının ellimilyon Türk Lirasının üzerinde olması (münhasıran bu yatırımların enerji ihtiyacını karşılamak üzere gerçekleştirilecek doğalgaza dayalı olmayan enerji yatırımlarının, tesis kurulu gücü ile orantılanacak kısmı dâhil).",
+          "b) Yatırım konusu ürünle ilgili yurtiçi toplam üretim kapasitesinin ithalattan az olması.",
+          "c) Bakanlıkça belirlenecek esaslar çerçevesinde, belge konusu yatırımla sağlanacak katma değerin asgari yüzde kırk olması.",
+          "ç) Yatırım konusu ürünle ilgili olarak son bir yıl içerisinde gerçekleşen toplam ithalat tutarının ellimilyon ABD Dolarının üzerinde olması.",
+          "(2) Yurt içinde üretimi olmayan ürünlerin üretimine yönelik yatırımlarda birinci fıkranın (ç) bendi hükmü,  rafineri ve petrokimya yatırımlarında ise (c) bendi hükmü aranmaz.",
+          "(3) Bu konuda Bakanlığa yapılacak müracaatlar Komisyon tarafından incelenerek değerlendirilir ve uygun görülen projeler için teşvik belgesi düzenlenir.",
+          "(4) EK-4'te belirtilen teşvik edilmeyecek yatırım konuları ile kamu kurum ve kuruluşları tarafından gerçekleştirilecek yatırımlar bu madde kapsamında değerlendirilmez."
+        ]
+      },
+      {
+        "madde_no": 9,
+        "baslik": "Gümrük vergisi muafiyeti",
+        "paragraflar": [
+          "(1) Teşvik belgesi kapsamındaki yatırım malı makine ve teçhizatın ithali, otomobil ve hafif ticarî araç yatırımlarında yatırım dönemi içerisinde kalmak kaydıyla monte edilmemiş haldeki (CKD) aksam ve parçaların ithali, gemi ve elli metrenin üzerindeki yat inşa yatırımlarında tekne kabuğu ithali yürürlükteki İthalat Rejimi Kararı gereğince ödenmesi gereken gümrük vergisinden muaftır.",
+          "(2) Teşvik belgesi kapsamında otobüs, çekici (Euro normlarına uygun yeşil motoru haiz olanlar hariç), mobilya, motorbot, kamyon (off-road truck tipi karayoluna çıkması mümkün olmayan kaya tipi damperli kamyonlar hariç), transmikser, beton santrali, forklift ve beton pompası ithal edilmesi halinde yürürlükteki İthalat Rejimi Kararında öngörülen oranlarda gümrük vergisi tahsil edilir.  Ayrıca, makine ve teçhizat bedelinin yüzde beşine kadar yedek parça, gümrük vergisi muafiyeti sağlanmaksızın ithal edilerek sabit yatırım tutarına dahil edilebilir."
+        ]
+      },
+      {
+        "madde_no": 10,
+        "baslik": "KDV istisnası ve iadesi",
+        "paragraflar": [
+          "(1) 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu gereğince, teşvik belgesini haiz yatırımcılara teşvik belgesi kapsamında yapılacak makine ve teçhizat ithal ve yerli teslimleri KDV'den istisna edilebilir. Aynı hüküm, teşvik belgesinin veya teşvik belgesi kapsamı makine ve teçhizatın devir işlemleri ile makine ve teçhizat listelerinde set, ünite, takım vb. olarak belirtilen malların kısmi teslimlerinde de uygulanır.",
+          "(2) Sabit yatırım tutarı beşyüzmilyon Türk Lirasının üzerindeki stratejik yatırımlar kapsamında yapılacak bina-inşaat harcamaları KDV iadesinden yararlandırılabilir."
+        ]
+      },
+      {
+        "madde_no": 11,
+        "baslik": "Faiz desteği",
+        "paragraflar": [
+          "(1) Talep edilmesi halinde, bölgesel teşvik uygulamaları ve stratejik yatırımlar ile AR-GE ve çevre yatırımları kapsamında desteklerden yararlanacak yatırımlar için bankalardan kullanılacak en az bir yıl vadeli yatırım kredilerinin teşvik belgesinde kayıtlı sabit yatırım tutarının yüzde yetmişine kadar olan kısmı için ödenecek faizin veya kâr payının;",
+          "a) 3 üncü bölgede yapılacak bölgesel yatırımlar için Türk Lirası cinsi kredilerde üç puanı, döviz kredileri ve dövize endeksli kredilerde bir puanı,",
+          "b) 4 üncü bölgede yapılacak bölgesel yatırımlar için Türk Lirası cinsi kredilerde dört puanı, döviz kredileri ve dövize endeksli kredilerde bir puanı,",
+          "c) 5 inci bölgede yapılacak bölgesel yatırımlar için Türk Lirası cinsi kredilerde beş puanı, döviz kredileri ve dövize endeksli kredilerde iki puanı,",
+          "ç) 6 ncı bölgede yapılacak bölgesel yatırımlar için Türk Lirası cinsi kredilerde yedi puanı, döviz kredileri ve dövize endeksli kredilerde iki puanı,",
+          "d) Bölge ayrımı yapılmaksızın tüm bölgelerde gerçekleştirilecek stratejik yatırımlar, AR-GE yatırımları ve çevre yatırımları için Türk Lirası cinsi kredilerde beş puanı, döviz kredileri ve dövize endeksli kredilerde iki puanı,",
+          "Bakanlıkça da uygun görülmesi halinde azami ilk beş yıl için ödenmek kaydıyla bütçe kaynaklarından karşılanabilir."
+        ]
+      },
+      {
+        "madde_no": 12,
+        "baslik": "Sigorta primi işveren hissesi desteği",
+        "paragraflar": [
+          "(1) Büyük ölçekli yatırımlar, stratejik yatırımlar ve bölgesel teşvik uygulamaları kapsamında desteklenen yatırımlardan, tamamlama vizesi yapılmış teşvik belgesinde kayıtlı istihdamı aşmamak kaydıyla;",
+          "a) Komple yeni yatırımlarda, teşvik belgesi kapsamında gerçekleşen yatırımla sağlanan,",
+          "b) Diğer yatırım cinslerinde, yatırımın tamamlanmasını müteakip, yatırıma başlama tarihinden önceki son altı aylık dönemde (mevsimsel özellik taşıyan yatırımlarda bir önceki yıla ait mevsimsel istihdam ortalamaları dikkate alınır) Sosyal Güvenlik Kurumuna verilen aylık prim ve hizmet belgesinde bildirilen ortalama işçi sayısına teşvik belgesi kapsamında gerçekleşen yatırımla ilave edilen,",
+          "istihdam için ödenmesi gereken sigorta primi işveren hissesinin asgari ücrete tekabül eden kısmı Bakanlık bütçesinden karşılanır."
+        ]
+      },
+      {
+        "madde_no": 13,
+        "baslik": "Sigorta primi desteği",
+        "paragraflar": [
+          "(1) Bu Karar uyarınca 6 ncı bölgede; büyük ölçekli yatırımlar, stratejik yatırımlar ve bölgesel teşvik uygulamaları kapsamında teşvik belgesine istinaden gerçekleştirilecek yatırımla sağlanan ilave istihdam için, tamamlama vizesi yapılan teşvik belgesinde kayıtlı istihdam sayısını aşmamak kaydıyla, işveren tarafından Sosyal Güvenlik Kurumuna ödenmesi gereken sigorta primi işçi hissesinin asgari ücrete tekabül eden kısmı, tamamlama vizesinin yapılmasını müteakip on yıl süreyle işveren adına Bakanlık bütçesinden karşılanabilir."
+        ]
+      },
+      {
+        "madde_no": 14,
+        "baslik": "Gelir vergisi stopajı desteği",
+        "paragraflar": [
+          "(1) Bu Karar uyarınca 6 ncı bölge için düzenlenen teşvik belgeleri kapsamında gerçekleştirilecek yatırımlarla sağlanan ilave istihdam için, belgede kayıtlı istihdam sayısını aşmamak kaydıyla, işçilerin ücretlerinin asgari ücrete tekabül eden kısmı üzerinden hesaplanan gelir vergisi, yatırımın kısmen veya tamamen faaliyete geçtiği tarihten itibaren on yıl süreyle verilecek muhtasar beyanname üzerinden tahakkuk eden vergiden terkin edilir."
+        ]
+      },
+      {
+        "madde_no": 15,
+        "baslik": "Vergi indirimi",
+        "paragraflar": [
+          "(1) Büyük ölçekli yatırımlar ile bölgesel teşvik uygulamaları kapsamında gerçekleştirilecek yatırımlarda, 5520 sayılı Kanunun 32/A maddesi çerçevesinde gelir veya kurumlar vergisi, öngörülen yatırıma katkı tutarına ulaşıncaya kadar aşağıda belirtilen oranlarda indirimli olarak uygulanır.",
+          "Bölgeler\tBölgesel Teşvik Uygulamaları\t\tBüyük Ölçekli Yatırımlar\n\tYatırıma katkı oranı (%)\tKurumlar vergisi indirim oranı (%)\tYatırıma katkı oranı (%)\tKurumlar vergisi indirim oranı (%)\n1\t10\t30\t20\t30\n2\t15\t40\t25\t40\n3\t20\t50\t30\t50\n4\t25\t60\t35\t60\n5\t30\t70\t40\t70\n6\t35\t90\t45\t90",
+          "(2) Ancak, bu Karara istinaden düzenlenecek teşvik belgeleri kapsamında 31/12/2013 tarihine kadar (bu tarih dahil) yatırıma başlanılmış olması halinde aşağıdaki tabloda belirtilen indirim oranları ile yatırıma katkı oranları uygulanır.",
+          "Bölgeler\tBölgesel Teşvik Uygulamaları\t\tBüyük Ölçekli Yatırımlar\n\tYatırıma katkı oranı (%)\tKurumlar vergisi indirim oranı (%)\tYatırıma katkı oranı (%)\tKurumlar vergisi indirim oranı (%)\n1\t15\t50\t25\t50\n2\t20\t55\t30\t55\n3\t25\t60\t35\t60\n4\t30\t70\t40\t70\n5\t40\t80\t50\t80\n6\t50\t90\t60\t90",
+          "(3) Stratejik yatırımlar için tüm bölgelerde uygulanacak vergi indirimi oranı yüzde doksan ve yatırıma katkı oranı yüzde ellidir."
+        ]
+      },
+      {
+        "madde_no": 16,
+        "baslik": "Yatırım yeri tahsisi",
+        "paragraflar": [
+          "(1) Bakanlıkça teşvik belgesi düzenlenmiş büyük ölçekli yatırımlar, stratejik yatırımlar ve bölgesel desteklerden yararlanacak yatırımlar için, 29/6/2001 tarihli ve 4706 sayılı Kanunun ek 3 üncü maddesi çerçevesinde Maliye Bakanlığınca belirlenen usul ve esaslara göre yatırım yeri tahsis edilebilir.",
+          "(2) 15 inci maddenin altıncı fıkrasında belirtilen yatırımlara yatırım yeri tahsis edilmez."
+        ]
+      },
+      {
+        "madde_no": 17,
+        "baslik": "Öncelikli yatırım konuları",
+        "paragraflar": [
+          "(1) Aşağıda belirtilen yatırım konuları 5 inci bölgede uygulanan bölgesel desteklerden faydalanabilir. Ancak bu yatırımlar, 6 ncı bölgede yer almaları halinde bulunduğu bölge desteklerine tabidir.",
+          "a) Denizyolu ile yük ve/veya yolcu taşımacılığına yönelik yatırımlar.",
+          "b) Özel sektör tarafından yapılacak şehirlerarası yük ve/veya yolcu taşımacılığına yönelik demiryolu yatırımları ile şehir içi yük taşımacılığına yönelik demiryolu yatırımları.",
+          "c) Test merkezleri, rüzgar tüneli ve bu mahiyetteki yatırımlar (otomotiv, uzay veya savunma sanayine yönelik olanlar).",
+          "ç) Kültür ve Turizm Koruma ve Gelişim Bölgelerinde yapılacak turizm yatırımlarından bölgesel desteklerden yararlanabilecek nitelikteki turizm konaklama yatırımları.",
+          "d) Asgari ellibin metrekare kapalı alana sahip uluslararası fuar yatırımları (konaklama ve alışveriş merkezi üniteleri hariç).",
+          "e) Sağlık Bakanlığından alınacak proje onayına istinaden gerçekleştirilecek asgari yirmimilyon Türk Lirası tutarındaki biyoteknolojik ilaç, onkoloji ilaçları ve kan ürünleri üretimine yönelik yatırımlar.",
+          "f) Savunma Sanayii Müsteşarlığından alınacak proje onayına istinaden gerçekleştirilecek asgari yirmimilyon Türk Lirası tutarındaki savunma, havacılık ve uzay alanındaki yatırımlar.",
+          "g) Maden istihraç yatırımları ve/veya maden işleme yatırımları (4/6/1985 tarihli ve 3213 sayılı Maden Kanununda tanımlanan I. grup madenler ve mıcır yatırımları ile İstanbul ilinde gerçekleştirilecek istihraç ve/veya işleme yatırımları hariç).",
+          "ğ) Özel sektör tarafından gerçekleştirilecek olan ilk, orta ve lise eğitim yatırımları.",
+          "h) Bilim, Sanayi ve Teknoloji Bakanlığı tarafından desteklenen AR-GE projeleri neticesinde geliştirilen ürünlerin üretimine yönelik yatırımlar."
+        ]
+      },
+      {
+        "madde_no": 18,
+        "baslik": "Bir alt bölge desteğinden yararlanacak yatırımlar",
+        "paragraflar": [
+          "(1) Büyük ölçekli yatırımlar veya bölgesel teşvik uygulamaları kapsamında teşvik belgesi düzenlenen yatırımlar, aşağıda belirtilen koşullardan en az birini sağlamaları halinde vergi indirimi ve sigorta primi işveren hissesi desteği açısından bulundukları bölgenin bir alt bölgesinde sağlanan oran ve sürelerde bu desteklerden yararlanabilir.",
+          "a) Yatırımın organize sanayi bölgesinde (OSB) gerçekleştirilmesi.",
+          "b) Yatırımın, aynı sektörde faaliyet gösteren en az beş gerçek veya tüzel kişinin ortağı olduğu yatırımcı tarafından gerçekleştirilmesi ve ortak faaliyet gösterilen alanda entegrasyonu sağlayacak bir yatırım olması.",
+          "(2) Bu madde kapsamında 6 ncı bölgede gerçekleştirilecek büyük ölçekli ve bölgesel teşvik uygulamaları kapsamındaki yatırımlar için sigorta primi işveren hissesi desteği, bölgede geçerli olan süreye iki yıl ilave edilmek, vergi indirimi desteği ise bölgede geçerli olan yatırıma katkı oranına beş puan ilave edilmek suretiyle uygulanır."
+        ]
+      },
+      {
+        "madde_no": 19,
+        "baslik": "AR-GE ve çevre yatırımları",
+        "paragraflar": [
+          "(1) AR-GE ve çevre yatırımları; KDV istisnası, gümrük vergisi muafiyeti ve faiz desteğinden yararlandırılır. Söz konusu yatırımlar, 6 ncı bölgede gerçekleştirilmesi halinde gelir vergisi stopajı ve sigorta primi desteğinden de yararlanabilir."
+        ]
+      },
+      {
+        "madde_no": 20,
+        "baslik": "Yerel birimlerce yapılacak işlemler",
+        "paragraflar": [
+          "(1) Yerel birimlere yapılan teşvik belgesi müracaatlarından uygun görülenler için yerel birim tarafından teşvik belgesi hazırlanır ve değerlendirilmek üzere Bakanlığa iletilir. Bakanlıkça uygun görülen teşvik belgeleri onaylanarak ilgili yerel birimlere gönderilir.",
+          "(2) 9 uncu maddenin üçüncü fıkrasının (b) bendi ile 22 nci ve 23 üncü maddeleri dışındaki işlemler, teşvik belgesini düzenleyen ilgili yerel birimlerce sonuçlandırılır."
+        ]
+      },
+      {
+        "madde_no": 22,
+        "baslik": "Devir, satış, ihraç ve kiralama",
+        "paragraflar": [
+          "(1) Yatırım tamamlama vizesi yapılmış teşvik belgesi kapsamındaki makine ve teçhizatın devir, satış, ihraç veya kiralanması, söz konusu yatırım mallarının teminini müteakip beş yılı doldurmuş olmaları halinde serbesttir.",
+          "(2) Teşvik belgesi kapsamındaki yatırımını tamamlamış ancak tamamlama vizesi yapılmamış yatırımlarla ilgili makine ve teçhizatın, teminini müteakip beş yıl geçtikten sonra satışının yapılmış olması ve işletmenin asgari beş yıl süreyle faaliyette bulunmuş olması şartıyla, Bakanlıkça herhangi bir müeyyide uygulanmaksızın tamamlama vizesi yapılabilir."
+        ]
+      },
+      {
+        "madde_no": 23,
+        "baslik": "Yatırımların nakli",
+        "paragraflar": [
+          "(1) Büyük ölçekli yatırımlar ile bölgesel teşvik uygulamaları kapsamında gerçekleştirilen yatırımların, işletmeye geçiş tarihinden itibaren asgarî beş yıl süre ile bulunduğu bölgede faaliyette bulunması gerekir. Ancak, Bakanlıktan izin alınması ve yatırım konusunun taşınılacak bölgede desteklenecek konular arasında yer alması kaydıyla diğer bölgelere taşınılabilir."
+        ]
+      },
+      {
+        "madde_no": 24,
+        "baslik": "Yatırım süresi ve tamamlama vizesi",
+        "paragraflar": [
+          "(1) Yatırımın başlangıç tarihi, teşvik belgesi için Bakanlığa veya ilgili yerel birime müracaat tarihidir. Ancak, yatırıma başlanıldığının kabul edilebilmesi için, yatırımın başlangıç tarihinden sonra arazi-arsa, altyapı, bina-inşaat, makine ve teçhizat (avans ve ön ödemeler dahil) ile diğer yatırım harcamalarına yönelik olarak teşvik belgesinin ilk düzenlendiği tarihteki sabit yatırım tutarı esas alınmak üzere, sabit yatırım tutarının en az yüzde onu oranında (sabit yatırım tutarı ellimilyon Türk Lirasının üzerindeki yatırımlar için en az beşmilyon Türk Lirası) harcama yapılması gerekir.",
+          "(2) Teşvik belgesi kapsamındaki yatırımların proje bazında yapılacak değerlendirme sonucunda öngörülen sürede gerçekleştirilmesi esastır. Yatırımın öngörülen sürede gerçekleştirilememesi hâlinde, teşvik belgesinde kayıtlı ilk sürenin yarısı kadar ek süre verilebilir."
+        ]
+      },
+      {
+        "madde_no": 28,
+        "baslik": "Müeyyide",
+        "paragraflar": [
+          "(1) Bu Karar ile uygulama mevzuatında belirlenen hükümlere aykırı davranan, teşvik belgesindeki kayıt ve koşulları yerine getirmeyen, teşvik belgesi ile diğer belgelerde tahrifat yapan, sahte ve muhteviyatı itibarıyla yanıltıcı belge düzenleyen veya kullanan, yanlış ve yanıltıcı bilgi veren, diğer kurum, kuruluş veya firmalara karşı yükümlülüklerin yerine getirilmemesi nedeniyle icra veya iflas yoluyla yapılan işlemler de dâhil belge kapsamındaki makine ve teçhizatı öngörülen sürelerden önce satan veya satılmasına sebebiyet veren, teşvik belgesinde öngörülen sürede yatırımları tamamlamayan, belirlenen asgari yatırım tutarlarına uymayan yatırımcıların teşvik belgeleri bu maddenin ikinci fıkra hükmü saklı kalmak kaydıyla iptal edilir.",
+          "(2) Yatırımcının mükellefiyetlerini kısmen yerine getirmediği ancak, belge iptalinin de gerekmediği durumlarda belge kapsamında sağlanan desteklerden bir kısmı müeyyide uygulanarak geri alınır.",
+          "(3) Teşvik belgelerinin iptal edilmesi veya kısmi müeyyide uygulanması halinde sağlanan destekler 6183 sayılı Kanun hükümleri çerçevesinde yatırımcıdan geri alınır."
+        ]
+      },
+      {
+        "madde_no": 29,
+        "baslik": "Diğer desteklerden yararlanma",
+        "paragraflar": [
+          "(1) Bu Karar kapsamındaki destek unsurlarından yararlanan yatırım harcamaları, diğer kamu kurum ve kuruluşlarının desteklerinden yararlanamaz. Diğer kamu kurum ve kuruluşlarının desteklerinden yararlanılan veya yararlanılacak yatırım harcamaları için, bu Karar kapsamındaki desteklerden yararlanmak üzere Bakanlığa müracaat edilemez. Bu madde hükmüne aykırı davranılması halinde, bu Karar kapsamında yararlanılan destekler ilgili mevzuat çerçevesinde geri alınır."
+        ]
+      },
+      {
+        "madde_no": 30,
+        "baslik": "Yürürlükten kaldırılan mevzuat",
+        "paragraflar": [
+          "(1) 14/7/2009 tarihli ve 2009/15199 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Karar yürürlükten kaldırılmıştır."
+        ]
+      },
+      {
+        "madde_no": "Geçici 1",
+        "baslik": "Sonuçlandırılmamış müracaatlar",
+        "paragraflar": [
+          "(1) Bu Kararın yayımı tarihinden önce sonuçlandırılmamış müracaatlar, müracaat tarihinde yürürlükte bulunan Karar çerçevesinde sonuçlandırılır. Ancak, yeni teşvik belgesi düzenlenmesine ilişkin müracaatlar, talep edilmesi halinde bu Karara istinaden değerlendirilir."
+        ]
+      },
+      {
+        "madde_no": "Geçici 2",
+        "baslik": "Daha önceki kararlara ilişkin uygulama",
+        "paragraflar": [
+          "(1) Bu Kararın yürürlüğe girdiği tarihten önceki kararlara istinaden düzenlenen teşvik belgeleri ile ilgili uygulamalara, teşvik belgesinin dayandığı karar ve ilgili diğer kararlar çerçevesinde devam olunur. Ancak, 2009/15199 sayılı Bakanlar Kurulu Kararına istinaden 1/1/2012 tarihinden bu Kararın yayımı tarihine kadar geçen dönemde yapılan müracaatlara istinaden düzenlenen teşvik belgeleri, talep edilmesi halinde bu Kararın lehte olan hükümlerinden yararlanır."
+        ]
+      },
+      {
+        "madde_no": 31,
+        "baslik": "Yürürlük",
+        "paragraflar": [
+          "(1) Bu Karar yayımı tarihinde yürürlüğe girer."
+        ]
+      },
+      {
+        "madde_no": 32,
+        "baslik": "Yürütme",
+        "paragraflar": [
+          "(1) Bu Karar hükümlerini Ekonomi Bakanı yürütür."
+        ]
+      }
+    ]
+  }
+]

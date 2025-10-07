@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeftIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
 import mevzuatData from '../data/9903-karar.json';
+import mevzuat2012Data from '../data/2012-3305-karar.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -15,7 +16,7 @@ function MevzuatDetail() {
   const { id } = useParams();
   
   // Find the main mevzuat
-  let mevzuat = mevzuatData.find((m) => m.id === id);
+  let mevzuat = mevzuatData.find((m) => m.id === id) || mevzuat2012Data.find((m) => m.id === id);
   
   // If this is the main mevzuat (9903), add EK-1, EK-2, EK-3, EK-4 and EK-5 maddeler to it
   if (mevzuat && mevzuat.id === '9903') {

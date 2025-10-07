@@ -17,11 +17,11 @@ function AtifParser({ metin, tumMaddeler }) {
         <div key={index} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
           <div className="flex justify-center">
             <div className="overflow-x-auto">
-              <table className="w-full max-w-md text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
-                <thead className="bg-gray-50 dark:bg-gray-700">
+              <table className="w-full max-w-4xl text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+                <thead className="bg-gray-50 dark:bg-gray-700 w-full">
                   <tr>
                     {headers.map((header, idx) => (
-                      <th key={idx} className="px-2 py-1 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600">
+                      <th key={idx} className="px-4 py-2 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600 w-full">
                         {header}
                       </th>
                     ))}
@@ -35,7 +35,7 @@ function AtifParser({ metin, tumMaddeler }) {
                     return (
                       <tr key={rowIdx} className="border-b border-gray-100 dark:border-gray-700 last:border-b-0">
                         {row.map((cell, cellIdx) => (
-                          <td key={cellIdx} className="px-2 py-1 text-gray-700 dark:text-gray-300">
+                          <td key={cellIdx} className="px-4 py-2 text-gray-700 dark:text-gray-300">
                             {cell === '-' ? (
                               <span className="text-gray-400 dark:text-gray-500">-</span>
                             ) : isCategoryHeader ? (
@@ -70,7 +70,7 @@ function AtifParser({ metin, tumMaddeler }) {
     }
 
     return (
-      <div className="text-left max-w-md">
+      <div className="text-left max-w-4xl">
         <div className="border-b border-gray-200 dark:border-gray-700 px-4 py-3">
           <h4 className="font-bold text-primary-600 dark:text-primary-400 text-sm">
             MADDE {madde.madde_no} - {madde.baslik}
@@ -84,11 +84,11 @@ function AtifParser({ metin, tumMaddeler }) {
               return (
                 <div key={i} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
                   <div className="overflow-x-auto">
-                    <table className="w-full max-w-md text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
-                      <thead className="bg-gray-50 dark:bg-gray-700">
+                    <table className="w-full max-w-4xl text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+                      <thead className="bg-gray-50 dark:bg-gray-700 w-full">
                         <tr>
                           {p.split('\n')[0].split('\t').map((header, idx) => (
-                            <th key={idx} className="px-2 py-1 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600">
+                            <th key={idx} className="px-4 py-2 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600 w-full">
                               {header}
                             </th>
                           ))}
@@ -98,7 +98,7 @@ function AtifParser({ metin, tumMaddeler }) {
                         {p.split('\n').slice(1).map((line, rowIdx) => (
                           <tr key={rowIdx} className="border-b border-gray-100 dark:border-gray-700 last:border-b-0">
                             {line.split('\t').map((cell, cellIdx) => (
-                              <td key={cellIdx} className="px-2 py-1 text-gray-700 dark:text-gray-300">
+                              <td key={cellIdx} className="px-4 py-2 text-gray-700 dark:text-gray-300">
                                 {cell === '-' ? (
                                   <span className="text-gray-400 dark:text-gray-500">-</span>
                                 ) : (
@@ -159,7 +159,7 @@ function AtifParser({ metin, tumMaddeler }) {
           className={`modern-tooltip ${theme === 'dark' ? 'dark-theme' : 'light-theme'}`}
           appendTo={() => document.body}
         >
-          <span className={`relative inline-block font-semibold rounded-md cursor-pointer px-2 py-1 mx-0.5 transition-all duration-300 hover:shadow-md hover:scale-105 ${
+          <span className={`relative inline-block font-semibold rounded-md cursor-pointer px-4 py-2 mx-0.5 transition-all duration-300 hover:shadow-md hover:scale-105 ${
             theme === 'dark' 
               ? 'bg-gradient-to-r from-yellow-600 to-yellow-500 text-yellow-100 border border-yellow-500 hover:from-yellow-500 hover:to-yellow-400' 
               : 'bg-gradient-to-r from-yellow-200 to-yellow-300 text-yellow-900 border border-yellow-300 hover:from-yellow-300 hover:to-yellow-400'
