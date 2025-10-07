@@ -4,6 +4,7 @@ import { DocumentTextIcon, ChevronRightIcon } from '@heroicons/react/24/outline'
 import ThemeToggle from '../components/ThemeToggle';
 import mevzuatData from '../data/9903-karar.json';
 import mevzuat2012Data from '../data/2012-3305-karar.json';
+import mevzuat2012Ek1Data from '../data/2012-3305-ek1.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -24,10 +25,19 @@ function MevzuatList() {
     maddeler: [...mainMevzuat.maddeler, ...ek1Maddeler, ...ek2Maddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
   } : mevzuatData[0];
   
+  // Update 2012/3305 mevzuat with EK-1
+  const updated2012Mevzuat = mevzuat2012Data[0] ? {
+    ...mevzuat2012Data[0],
+    maddeler: [...mevzuat2012Data[0].maddeler, ...mevzuat2012Ek1Data[0]?.maddeler || []]
+  } : mevzuat2012Data[0];
+  
   // Show all mevzuat, but with updated main mevzuat
   const allMevzuat = [...mevzuatData, ...mevzuat2012Data].map(m => {
     if (m.id === '9903' && mainMevzuat) {
       return updatedMevzuat;
+    }
+    if (m.id === '2012-3305' && updated2012Mevzuat) {
+      return updated2012Mevzuat;
     }
     return m;
   });

@@ -17,10 +17,13 @@ function AtifParser({ metin, tumMaddeler }) {
         <div key={index} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
           <div className="flex justify-center">
             <div className="overflow-x-auto">
-              <table className="w-full max-w-4xl text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+              <table className="w-full max-w-md text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
                 <thead className="bg-gray-50 dark:bg-gray-700 w-full">
                   <tr>
-                    {headers.map((header, idx) => (
+                    <th className="px-4 py-2 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600 w-full">
+                      Bölgeler
+                    </th>
+                    {headers.slice(1).map((header, idx) => (
                       <th key={idx} className="px-4 py-2 text-left font-semibold text-gray-700 dark:text-gray-300 border-b border-gray-200 dark:border-gray-600 w-full">
                         {header}
                       </th>
@@ -70,7 +73,7 @@ function AtifParser({ metin, tumMaddeler }) {
     }
 
     return (
-      <div className="text-left max-w-4xl">
+      <div className="text-left max-w-md">
         <div className="border-b border-gray-200 dark:border-gray-700 px-4 py-3">
           <h4 className="font-bold text-primary-600 dark:text-primary-400 text-sm">
             MADDE {madde.madde_no} - {madde.baslik}
@@ -84,7 +87,7 @@ function AtifParser({ metin, tumMaddeler }) {
               return (
                 <div key={i} className="pb-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0">
                   <div className="overflow-x-auto">
-                    <table className="w-full max-w-4xl text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+                    <table className="w-full max-w-md text-xs border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
                       <thead className="bg-gray-50 dark:bg-gray-700 w-full">
                         <tr>
                           {p.split('\n')[0].split('\t').map((header, idx) => (

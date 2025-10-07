@@ -1,0 +1,15 @@
+[
+  {
+    "id": "2012-3305-ek1",
+    "baslik": "YATIRIM TEŞVİK UYGULAMALARINDA BÖLGELER",
+    "maddeler": [
+      {
+        "madde_no": "EK-1",
+        "baslik": "Yatırım Teşvik Uygulamalarında Bölgeler",
+        "paragraflar": [
+          "1. Bölge\t2. Bölge\t3. Bölge\t4. Bölge\t5. Bölge\t6. Bölge\nAnkara\tAdana\tBalıkesir\tAfyonkarahisar\tAdıyaman\tAğrı\nAntalya\tAydın\tBilecik\tAmasya\tAksaray\tArdahan\nBursa\tBolu\tBurdur\tArtvin\tBayburt\tBatman\nEskişehir\tÇanakkale (Bozcaada ve Gökçeada İlçeleri Hariç)\tGaziantep\tBartın\tÇankırı\tBingöl\nİstanbul\tDenizli\tKarabük\tÇorum\tErzurum\tBitlis\nİzmir\tEdirne\tKaraman\tDüzce\tGiresun\tDiyarbakır\nKocaeli\tIsparta\tManisa\tElazığ\tGümüşhane\tHakkari\nMuğla\tKayseri\tMersin\tErzincan\tKahramanmaraş\tIğdır\n\tKırklareli\tSamsun\tHatay\tKilis\tKars\n\tKonya\tTrabzon\tKastamonu\tNiğde\tMardin\n\tSakarya\tUşak\tKırıkkale\tOrdu\tMuş\n\tTekirdağ\tZonguldak\tKırşehir\tOsmaniye\tSiirt\n\tYalova\t\tKütahya\tSinop\tŞanlıurfa\n\t\t\tMalatya\tTokat\tŞırnak\n\t\t\tNevşehir\tTunceli\tVan\n\t\t\tRize\tYozgat\tBozcaada ve Gökçeada İlçeleri\n\t\t\tSivas\t\t"
+        ]
+      }
+    ]
+  }
+]

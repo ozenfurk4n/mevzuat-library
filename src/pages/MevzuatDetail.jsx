@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { ArrowLeftIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
 import mevzuatData from '../data/9903-karar.json';
 import mevzuat2012Data from '../data/2012-3305-karar.json';
+import mevzuat2012Ek1Data from '../data/2012-3305-ek1.json';
 import ek1Data from '../data/9903-ek1.json';
 import ek2Data from '../data/9903-ek2.json';
 import ek3Data from '../data/9903-ek3.json';
@@ -28,6 +29,16 @@ function MevzuatDetail() {
     mevzuat = {
       ...mevzuat,
       maddeler: [...mevzuat.maddeler, ...ek1Maddeler, ...ek2Maddeler, ...ek3Maddeler, ...ek4Maddeler, ...ek5Maddeler]
+    };
+  }
+  
+  // If this is the 2012/3305 mevzuat, add EK-1 maddeler to it
+  if (mevzuat && mevzuat.id === '2012-3305') {
+    const ek1Maddeler = mevzuat2012Ek1Data[0]?.maddeler || [];
+    
+    mevzuat = {
+      ...mevzuat,
+      maddeler: [...mevzuat.maddeler, ...ek1Maddeler]
     };
   }
   
